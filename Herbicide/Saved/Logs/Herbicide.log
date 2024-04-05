@@ -1039,3 +1039,233 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.05-04.01.32:721][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
 [2024.04.05-04.01.32:724][  0]LogInit: Undo buffer set to 32 MB
 [2024.04.05-04.01.32:724][  0]LogInit: Transaction tracking system initialized
+[2024.04.05-04.01.32:804][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded C:/Users/Daniel/Documents/GitHub/TAFE_HerbicideGame/Herbicide/Saved/SourceControl/UncontrolledChangelists.json
+[2024.04.05-04.01.32:804][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2024.04.05-04.01.32:807][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.00294 seconds (Found 139 uncontrolled assets)
+[2024.04.05-04.01.32:830][  0]BlueprintLog: New page: Editor Load
+[2024.04.05-04.01.32:997][  0]LocalizationService: Localization service is disabled
+[2024.04.05-04.01.33:043][  0]TimingProfiler: Initialize
+[2024.04.05-04.01.33:043][  0]TimingProfiler: OnSessionChanged
+[2024.04.05-04.01.33:043][  0]LoadingProfiler: Initialize
+[2024.04.05-04.01.33:043][  0]LoadingProfiler: OnSessionChanged
+[2024.04.05-04.01.33:043][  0]NetworkingProfiler: Initialize
+[2024.04.05-04.01.33:043][  0]NetworkingProfiler: OnSessionChanged
+[2024.04.05-04.01.33:043][  0]MemoryProfiler: Initialize
+[2024.04.05-04.01.33:043][  0]MemoryProfiler: OnSessionChanged
+[2024.04.05-04.01.33:417][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Daniel/Documents/GitHub/TAFE_HerbicideGame/Herbicide/Content/' took 0.09s
+[2024.04.05-04.01.33:597][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.04.05-04.01.33:710][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2024.04.05-04.01.33:727][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.04.05-04.01.33:729][  0]SourceControl: Revision control is disabled
+[2024.04.05-04.01.33:729][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.257
+[2024.04.05-04.01.33:729][  0]Cmd: MAP LOAD FILE="C:/Users/Daniel/Documents/GitHub/TAFE_HerbicideGame/Herbicide/Content/FirstPerson/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.05-04.01.33:729][  0]LightingResults: New page: Lighting Build
+[2024.04.05-04.01.33:734][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-04.01.33:734][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-04.01.33:735][  0]MapCheck: New page: Map Check
+[2024.04.05-04.01.33:735][  0]LightingResults: New page: Lighting Build
+[2024.04.05-04.01.33:738][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-04.01.33:741][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.05-04.01.33:757][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Menu'.
+[2024.04.05-04.01.33:758][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-04.01.33:758][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-04.01.33:758][  0]LogAIModule: Creating AISystem for world Menu
+[2024.04.05-04.01.33:759][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.05-04.01.33:763][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.05-04.01.33:763][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.05-04.01.33:764][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.218ms to complete.
+[2024.04.05-04.01.33:773][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.301
+[2024.04.05-04.01.33:773][  0]LogShaderCompilers: Display: ================================================
+[2024.04.05-04.01.33:773][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.05-04.01.33:773][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.04.05-04.01.33:773][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.04.05-04.01.33:773][  0]LogShaderCompilers: Display: RAM used: 240.00 B of 1.60 GiB budget. Usage: 0.00%
+[2024.04.05-04.01.33:773][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.05-04.01.33:773][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.05-04.01.33:773][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.05-04.01.33:773][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.05-04.01.33:773][  0]LogShaderCompilers: Display: ================================================
+[2024.04.05-04.01.33:893][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.04.05-04.01.33:894][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.04.05-04.01.33:894][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.04.05-04.01.33:894][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.04.05-04.01.33:910][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-04.01.33:923][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-04.01.33:935][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-04.01.33:947][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-04.01.34:041][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.05-04.01.34:041][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.3/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.04.05-04.01.34:042][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.05-04.01.34:042][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.3/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.04.05-04.01.34:042][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.05-04.01.34:043][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.3/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.04.05-04.01.34:043][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.05-04.01.34:043][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.3/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.04.05-04.01.34:044][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.05-04.01.34:044][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.3/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.04.05-04.01.34:044][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.05-04.01.34:045][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.3/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.04.05-04.01.34:045][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.05-04.01.34:045][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.3/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.04.05-04.01.34:046][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.05-04.01.34:046][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.3/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.04.05-04.01.34:046][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.05-04.01.34:047][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.3/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.04.05-04.01.34:047][  0]LogPakFile: Initializing PakPlatformFile
+[2024.04.05-04.01.34:047][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.04.05-04.01.34:193][  0]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-QR6BIM6: (Name=DESKTOP-QR6BIM6, Type=Computer, Status=Valid, MinAllowed=10.0.18362.0, MaxAllowed=, Current=10.0.19045.0, Flags="Device_InstallSoftwareValid")
+[2024.04.05-04.01.34:207][  0]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.05-04.01.34:210][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.05-04.01.34:211][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.04.05-04.01.34:241][  0]LogViewport: Scene viewport resized to 2139x1227, mode Windowed.
+[2024.04.05-04.01.34:357][  0]LogAssetRegistry: Display: Asset registry cache written as 27.3 MiB to C:/Users/Daniel/Documents/GitHub/TAFE_HerbicideGame/Herbicide/Intermediate/CachedAssetRegistry_*.bin
+[2024.04.05-04.01.34:509][  0]LogStall: Startup...
+[2024.04.05-04.01.34:511][  0]LogStall: Startup complete.
+[2024.04.05-04.01.34:519][  0]LogLoad: (Engine Initialization) Total time: 10.05 seconds
+[2024.04.05-04.01.34:519][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.04.05-04.01.34:634][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.04.05-04.01.34:667][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.04.05-04.01.34:714][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2024.04.05-04.01.34:723][  1]Running Python start-up script 'E:/Unreal/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.043792 secs
+[2024.04.05-04.01.34:745][  1]LogAssetRegistry: AssetRegistryGather time 0.1597s: AssetDataDiscovery 0.0498s, AssetDataGather 0.0520s, StoreResults 0.0579s.
+[2024.04.05-04.01.34:769][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2024.04.05-04.01.34:775][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2024.04.05-04.01.46:483][336]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.05-04.01.54:077][723]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.04.05-04.01.54:077][723]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.04.05-04.01.58:517][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.05-04.01.58:547][202]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-04.01.58:548][202]LogWorldPartition: ULevel::OnLevelLoaded(Map_Town)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.04.05-04.01.58:548][202]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.05-04.01.58:548][202]LogWorldPartition: UWorldPartition::Initialize : World = Map_Town, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.05-04.01.58:586][202]LogContentBundle: [Map_Town(Standalone)] Creating new contrainer.
+[2024.04.05-04.01.58:586][202]LogWorldPartition: Display: WorldPartition initialize took 37 ms
+[2024.04.05-04.01.58:588][202]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/Map_Town.Map_Town
+[2024.04.05-04.01.58:588][202]Cmd: MAP LOAD FILE="C:/Users/Daniel/Documents/GitHub/TAFE_HerbicideGame/Herbicide/Content/FirstPerson/Maps/Map_Town.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.05-04.01.58:588][202]LightingResults: New page: Lighting Build
+[2024.04.05-04.01.58:588][202]LoadErrors: New page: Loading map: Map_Town.umap
+[2024.04.05-04.01.58:664][202]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-04.01.58:664][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-04.01.58:664][202]MapCheck: New page: Map Check
+[2024.04.05-04.01.58:664][202]LightingResults: New page: Lighting Build
+[2024.04.05-04.01.58:668][202]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-04.01.58:669][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.05-04.01.58:670][202]LogWorld: UWorld::CleanupWorld for Map_Town, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-04.01.58:671][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-04.01.58:671][202]LogContentBundle: [Map_Town(Standalone)] Deleting container.
+[2024.04.05-04.01.58:676][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.05-04.01.58:680][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.05-04.01.58:687][202]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Town'.
+[2024.04.05-04.01.58:687][202]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-04.01.58:687][202]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-04.01.58:688][202]LogAIModule: Creating AISystem for world Map_Town
+[2024.04.05-04.01.58:688][202]LogWorldPartition: ULevel::OnLevelLoaded(Map_Town)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.04.05-04.01.58:688][202]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.05-04.01.58:688][202]LogWorldPartition: UWorldPartition::Initialize : World = Map_Town, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.05-04.01.59:372][202]LogAnimation: Warning: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_pose.Quinn_calf_l_pose is out-of-date with its source animation /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim BF93398AAD6D62DF112655B8ED3CF20E vs 5A55CD7B35467F4ADD5A6CC1B13D289D
+[2024.04.05-04.01.59:378][202]LogAnimation: Warning: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_pose.Quinn_calf_r_pose is out-of-date with its source animation /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim D11B0FF3E4621425787FFC399F21396D vs 5468A5BB128F04D48B018D8E17FCBDC7
+[2024.04.05-04.01.59:385][202]LogAnimation: Warning: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_pose.Quinn_clavicle_l_pose is out-of-date with its source animation /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim 90AAB2AD3EA4047FBE7D2A7CE3811DF5 vs 0437958046206607984E793A4BAB7891
+[2024.04.05-04.01.59:391][202]LogAnimation: Warning: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_pose.Quinn_clavicle_r_pose is out-of-date with its source animation /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim DB3BE353909BB74F14506F1FB1BAB9A7 vs F280BF597FEBF701CAC3D3ACE24A4D61
+[2024.04.05-04.01.59:398][202]LogAnimation: Warning: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_pose.Quinn_foot_l_pose is out-of-date with its source animation /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim 360E98B0F3906A082B5BA3BBA45E6C28 vs 3ADAF7669471D3A979FEF2C51472E452
+[2024.04.05-04.01.59:404][202]LogAnimation: Warning: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_pose.Quinn_foot_r_pose is out-of-date with its source animation /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim 89448E65AE039761CBFCDEEC88DB6C82 vs 3852C8B628D1BB773F0D538C598631A8
+[2024.04.05-04.01.59:410][202]LogAnimation: Warning: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_pose.Quinn_hand_l_pose is out-of-date with its source animation /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim 2A557BC6687C70264FEDCEEDAF3D74BB vs E6F07F6D3BD0BE6E891C648D2A318C30
+[2024.04.05-04.01.59:416][202]LogAnimation: Warning: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_pose.Quinn_hand_r_pose is out-of-date with its source animation /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim 2B22506D82674CF44564930E27D311D6 vs D5991895CD282302D41EF7F9F364FBAC
+[2024.04.05-04.01.59:422][202]LogAnimation: Warning: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_pose.Quinn_lowerarm_l_pose is out-of-date with its source animation /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim 985499B159549072FA9713240591A554 vs 427F2443D721BD92A5A93071F651FCEB
+[2024.04.05-04.01.59:429][202]LogAnimation: Warning: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_pose.Quinn_lowerarm_r_pose is out-of-date with its source animation /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim D1FE6DF936268DDC00C0C17E7F8BC69F vs 34A548CA4E486B5139BF249993DFCA51
+[2024.04.05-04.01.59:435][202]LogAnimation: Warning: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_pose.Quinn_thigh_l_pose is out-of-date with its source animation /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim 8FD955B082A11940A2C9F05A42AAC255 vs 6C031DEF5FE15B1E967C0D4F8A148FA8
+[2024.04.05-04.01.59:441][202]LogAnimation: Warning: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_pose.Quinn_thigh_r_pose is out-of-date with its source animation /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim 402E6140D127A78E8862B816DFCBBE8B vs 632D5907227D4F63143AED122D634459
+[2024.04.05-04.01.59:447][202]LogAnimation: Warning: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_pose.Quinn_upperarm_l_pose is out-of-date with its source animation /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim A497D2F503AC58C6B107EFCED5062AA7 vs C8F1E2335EFB744131777D8605D42BC5
+[2024.04.05-04.01.59:454][202]LogAnimation: Warning: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_pose.Quinn_upperarm_r_pose is out-of-date with its source animation /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim 799E453D1F53700BCBF31ADE6FE99CE5 vs 45C9349E90CE819467A6664D9F8772D6
+[2024.04.05-04.01.59:462][202]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.04.05-04.01.59:694][202]LogContentBundle: [Map_Town(Standalone)] Creating new contrainer.
+[2024.04.05-04.01.59:694][202]LogWorldPartition: Display: WorldPartition initialize took 1.00 sec (total: 1.04 sec)
+[2024.04.05-04.02.00:257][202]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.05-04.02.00:550][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.05-04.02.00:555][202]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.05-04.02.00:555][202]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.404ms to complete.
+[2024.04.05-04.02.02:629][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.05-04.02.02:752][334]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-04.02.02:754][334]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/Map_Lab.Map_Lab
+[2024.04.05-04.02.02:755][334]Cmd: MAP LOAD FILE="C:/Users/Daniel/Documents/GitHub/TAFE_HerbicideGame/Herbicide/Content/FirstPerson/Maps/Map_Lab.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.05-04.02.02:755][334]LightingResults: New page: Lighting Build
+[2024.04.05-04.02.02:755][334]LoadErrors: New page: Loading map: Map_Lab.umap
+[2024.04.05-04.02.02:823][334]LogWorld: UWorld::CleanupWorld for Map_Town, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-04.02.02:824][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-04.02.02:826][334]LogContentBundle: [Map_Town(Standalone)] Deleting container.
+[2024.04.05-04.02.02:826][334]MapCheck: New page: Map Check
+[2024.04.05-04.02.02:826][334]LightingResults: New page: Lighting Build
+[2024.04.05-04.02.02:830][334]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-04.02.02:847][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.05-04.02.02:852][334]LogWorld: UWorld::CleanupWorld for Map_Lab, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-04.02.02:852][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-04.02.02:858][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.05-04.02.02:861][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.04.05-04.02.02:871][334]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Lab'.
+[2024.04.05-04.02.02:871][334]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-04.02.02:871][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-04.02.02:871][334]LogAIModule: Creating AISystem for world Map_Lab
+[2024.04.05-04.02.02:909][334]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.05-04.02.02:916][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.05-04.02.02:924][334]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.05-04.02.02:925][334]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.159ms to complete.
+[2024.04.05-04.02.04:118][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.05-04.02.04:168][407]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-04.02.04:168][407]LogWorldPartition: ULevel::OnLevelLoaded(Map_Engineering)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.04.05-04.02.04:168][407]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.05-04.02.04:168][407]LogWorldPartition: UWorldPartition::Initialize : World = Map_Engineering, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.05-04.02.04:175][407]LogContentBundle: [Map_Engineering(Standalone)] Creating new contrainer.
+[2024.04.05-04.02.04:175][407]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 1.05 sec)
+[2024.04.05-04.02.04:176][407]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/Map_Engineering.Map_Engineering
+[2024.04.05-04.02.04:176][407]Cmd: MAP LOAD FILE="C:/Users/Daniel/Documents/GitHub/TAFE_HerbicideGame/Herbicide/Content/FirstPerson/Maps/Map_Engineering.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.05-04.02.04:176][407]LightingResults: New page: Lighting Build
+[2024.04.05-04.02.04:176][407]LoadErrors: New page: Loading map: Map_Engineering.umap
+[2024.04.05-04.02.04:253][407]LogWorld: UWorld::CleanupWorld for Map_Lab, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-04.02.04:253][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-04.02.04:253][407]MapCheck: New page: Map Check
+[2024.04.05-04.02.04:253][407]LightingResults: New page: Lighting Build
+[2024.04.05-04.02.04:257][407]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-04.02.04:259][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.05-04.02.04:261][407]LogWorld: UWorld::CleanupWorld for Map_Engineering, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-04.02.04:261][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-04.02.04:261][407]LogContentBundle: [Map_Engineering(Standalone)] Deleting container.
+[2024.04.05-04.02.04:266][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.05-04.02.04:270][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.05-04.02.04:276][407]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Engineering'.
+[2024.04.05-04.02.04:276][407]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-04.02.04:276][407]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-04.02.04:276][407]LogAIModule: Creating AISystem for world Map_Engineering
+[2024.04.05-04.02.04:277][407]LogWorldPartition: ULevel::OnLevelLoaded(Map_Engineering)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.04.05-04.02.04:277][407]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.05-04.02.04:277][407]LogWorldPartition: UWorldPartition::Initialize : World = Map_Engineering, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.05-04.02.04:310][407]LogContentBundle: [Map_Engineering(Standalone)] Creating new contrainer.
+[2024.04.05-04.02.04:310][407]LogWorldPartition: Display: WorldPartition initialize took 33 ms (total: 1.08 sec)
+[2024.04.05-04.02.04:352][407]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.05-04.02.04:359][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.04.05-04.02.04:364][407]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.05-04.02.04:366][407]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.48ms to complete.
+[2024.04.05-04.02.06:467][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.05-04.02.06:516][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-04.02.06:520][546]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/Map_Lab.Map_Lab
+[2024.04.05-04.02.06:520][546]Cmd: MAP LOAD FILE="C:/Users/Daniel/Documents/GitHub/TAFE_HerbicideGame/Herbicide/Content/FirstPerson/Maps/Map_Lab.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.05-04.02.06:520][546]LightingResults: New page: Lighting Build
+[2024.04.05-04.02.06:520][546]LoadErrors: New page: Loading map: Map_Lab.umap
+[2024.04.05-04.02.06:547][546]LogWorld: UWorld::CleanupWorld for Map_Engineering, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-04.02.06:547][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-04.02.06:548][546]LogContentBundle: [Map_Engineering(Standalone)] Deleting container.
+[2024.04.05-04.02.06:548][546]MapCheck: New page: Map Check
+[2024.04.05-04.02.06:548][546]LightingResults: New page: Lighting Build
+[2024.04.05-04.02.06:553][546]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-04.02.06:555][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.04.05-04.02.06:557][546]LogWorld: UWorld::CleanupWorld for Map_Lab, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-04.02.06:557][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-04.02.06:562][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.04.05-04.02.06:566][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.05-04.02.06:575][546]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Lab'.
+[2024.04.05-04.02.06:575][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-04.02.06:576][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-04.02.06:576][546]LogAIModule: Creating AISystem for world Map_Lab
+[2024.04.05-04.02.06:615][546]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.05-04.02.06:622][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.05-04.02.06:627][546]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.05-04.02.06:627][546]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.147ms to complete.
