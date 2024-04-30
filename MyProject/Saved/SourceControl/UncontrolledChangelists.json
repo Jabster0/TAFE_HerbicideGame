@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Jabster Documents/GitHub/TAFE_HerbicideGame/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/Jabster Documents/GitHub/TAFE_HerbicideGame/MyProject/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"D:/Jabster Documents/GitHub/TAFE_HerbicideGame/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Jabster Documents/GitHub/TAFE_HerbicideGame/MyProject/Content/FirstPerson/Blueprints/BP_Breakable_Object_Cube.uasset",
+				"D:/Jabster Documents/GitHub/TAFE_HerbicideGame/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"D:/Jabster Documents/GitHub/TAFE_HerbicideGame/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"D:/Jabster Documents/GitHub/TAFE_HerbicideGame/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"D:/Jabster Documents/GitHub/TAFE_HerbicideGame/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/24/FFC5GV21NLNWJQ3XC8UWR4.uasset",
+				"D:/Jabster Documents/GitHub/TAFE_HerbicideGame/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/SJ/Z74APEUVGMNYYD9R2T0OTP.uasset",
+				"D:/Jabster Documents/GitHub/TAFE_HerbicideGame/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/HP/N9UOXCAVPSPPUI8AO9452S.uasset",
+				"D:/Jabster Documents/GitHub/TAFE_HerbicideGame/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/K0/YAZJ5QUH4OXCTE4QZ2EPEE.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,280 @@
+[+] Containers:
+ |- [+] Container: /Game/FirstPerson/Maps/Map_Engineering
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:03920DF94EEFC9F86CC66185D32A3DA1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:1523CED74CB482F1E15C8898CD54D507 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1116374465 Label:PointLight11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5105.601 Y=-6415.601 Z=-1375.601), Max=(X=-1074.399 Y=-2384.399 Z=2655.601) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:161F0C1E4E27293CEA9CE0B03191AE80 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F190E401_1776545279 Label:CubeGridToolOutput6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3030.000 Y=3900.000 Z=-1200.000), Max=(X=10770.000 Y=17300.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1C031A9E4A10AE4364F87B87C7989E79 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F18DE401_1935517744 Label:PointLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-500.000 Y=-6760.000 Z=-520.000), Max=(X=1500.000 Y=-4760.000 Z=1480.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:2039C8AB475AC145D39DC18F700D2E92 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1125791467 Label:PointLight13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5010.000 Y=-12780.000 Z=-360.000), Max=(X=-3010.000 Y=-10780.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:21892C104298AD28041A56A94D512E46 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1122491466 Label:PointLight12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4090.000 Y=-7910.000 Z=-360.000), Max=(X=-2090.000 Y=-5910.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:218E3B124735712D7EF272B4FB8E7FF6 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:2EBA5D1B4C8A9AC945F51FBBA0642DBA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F190E401_1525360278 Label:CubeGridToolOutput5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-200.000 Y=-3700.000 Z=0.000), Max=(X=5000.000 Y=4200.000 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:33B8118D4978E104852B16A10D92F863 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F190E401_2131052282 Label:PointLight4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-320.000 Y=-1440.000 Z=-860.000), Max=(X=1680.000 Y=560.000 Z=1140.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:396D762C431C713CDE7707AABB38A8F5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F18CE401_1940295567 Label:CubeGridToolOutput SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5200.000 Y=-10600.000 Z=0.000), Max=(X=6300.000 Y=1200.000 Z=700.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3F515F1642D2B5666D552E824B2CD724 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1162463472 Label:PointLight18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5460.000 Y=-11250.000 Z=-360.000), Max=(X=7460.000 Y=-9250.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:482DEECE466D587A894DE994996CF6EC BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1077927461 Label:PointLight7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4070.000 Y=-5400.000 Z=-360.000), Max=(X=6070.000 Y=-3400.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4D7FA1DD42A23C46CB2E5B8D055183A2 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F194E401_1304153977 Label:PointLight24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1100.000 Y=-550.000 Z=-860.000), Max=(X=3100.000 Y=1450.000 Z=1140.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:59F37B904CF5714B6EAFE886462C64F9 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F18FE401_2092963100 Label:PointLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2600.000 Y=-3440.000 Z=-360.000), Max=(X=4600.000 Y=-1440.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:638F70C044762E2095A209AFD7EB7C2B BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1165640473 Label:PointLight19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3070.000 Y=-11250.000 Z=-360.000), Max=(X=5070.000 Y=-9250.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7FC5E7424FEE69FEC0E632B66EE57B48 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F194E401_1304151976 Label:PointLight23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-320.000 Y=-550.000 Z=-860.000), Max=(X=1680.000 Y=1450.000 Z=1140.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8013B6EF439440289E86E4919733D402 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F190E401_2145925284 Label:PointLight6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1320.000 Y=-5400.000 Z=-360.000), Max=(X=3320.000 Y=-3400.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:81805F31468284CE80CC00801F6FB1C6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F18EE401_1395940921 Label:CubeGridToolOutput2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5500.000 Y=-13600.000 Z=0.000), Max=(X=200.000 Y=-3000.000 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8185842B4568D78B8B55CBA3EED94257 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F194E401_1327090978 Label:PointLight25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=420.000 Y=-1010.000 Z=-900.000), Max=(X=2420.000 Y=990.000 Z=1100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:844B1501442FCF3C66457582E68C9B7F BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F190E401_2139028283 Label:PointLight5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2600.000 Y=-5400.000 Z=-360.000), Max=(X=4600.000 Y=-3400.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8769B6494FD4BA9603D68B981DDAA35F BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1103086464 Label:PointLight10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1190.000 Y=-6760.000 Z=-520.000), Max=(X=810.000 Y=-4760.000 Z=1480.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:91F70086417B491B90D3E6A32F08E142 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F190E401_2127562281 Label:PointLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2600.000 Y=-3410.000 Z=-360.000), Max=(X=4600.000 Y=-1410.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:962D6BE34E7839A2A94E65B8F6CE5D43 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-240.000 Y=-40.000 Z=160.000), Max=(X=-160.000 Y=40.000 Z=344.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9BE597DF4159946BEDC242BFD1EB11B1 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1137163468 Label:PointLight14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5890.000 Y=-11400.000 Z=-360.000), Max=(X=-3890.000 Y=-9400.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AA3062D2464C1FA18508458A0A875E87 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1169221474 Label:PointLight20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4790.000 Y=-13190.000 Z=-360.000), Max=(X=6790.000 Y=-11190.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:B18D3BCD4B08101DE2CC7E949696A5F9 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1099223463 Label:PointLight9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=-6760.000 Z=-520.000), Max=(X=1750.000 Y=-4760.000 Z=1480.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BB12141D4E405CFCD9A16A98E515676C BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1091615462 Label:PointLight8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-540.000 Y=-5400.000 Z=-360.000), Max=(X=1460.000 Y=-3400.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BBC775614E0B01E16E26C09270DA439C BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1154013471 Label:PointLight17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1710.000 Y=-12270.000 Z=-360.000), Max=(X=3710.000 Y=-10270.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C6BB4F64491379211141D398B93C3E4A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F18FE401_1194315099 Label:CubeGridToolOutput4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5400.000 Y=-13200.000 Z=-0.000), Max=(X=16900.000 Y=2400.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C956555744F3BE6282D96181CC1F1B0D BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1150814470 Label:PointLight16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2750.000 Y=-14050.000 Z=-360.000), Max=(X=-750.000 Y=-12050.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DA9CBA6745EFCA006B0D10ABB8BA4907 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F194E401_1269203975 Label:PointLight22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1100.000 Y=-1440.000 Z=-860.000), Max=(X=3100.000 Y=560.000 Z=1140.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E4BAC2504415F669159AF890B13E67B4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F18EE401_1547730922 Label:CubeGridToolOutput3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5700.000 Y=-14400.000 Z=-0.000), Max=(X=17300.000 Y=3700.000 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E4F81FCF409084E63AEA758F3B431903 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1143272469 Label:PointLight15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2750.000 Y=-11400.000 Z=-360.000), Max=(X=-750.000 Y=-9400.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EDC4D2A54B2E3C012CF758A748639ADC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F190E401_2046650280 Label:roof SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5600.000 Y=-14200.000 Z=700.000), Max=(X=17900.000 Y=3000.000 Z=800.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F9301766494986B1684E6A8E4649D367 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1253383475 Label:PointLight21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-406.408 Y=-446.408 Z=-86.408), Max=(X=526.408 Y=486.408 Z=846.408) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:03920DF94EEFC9F86CC66185D32A3DA1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:1523CED74CB482F1E15C8898CD54D507 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1116374465 Label:PointLight11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5105.601 Y=-6415.601 Z=-1375.601), Max=(X=-1074.399 Y=-2384.399 Z=2655.601) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:161F0C1E4E27293CEA9CE0B03191AE80 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F190E401_1776545279 Label:CubeGridToolOutput6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3030.000 Y=3900.000 Z=-1200.000), Max=(X=10770.000 Y=17300.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:1C031A9E4A10AE4364F87B87C7989E79 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F18DE401_1935517744 Label:PointLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-500.000 Y=-6760.000 Z=-520.000), Max=(X=1500.000 Y=-4760.000 Z=1480.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:2039C8AB475AC145D39DC18F700D2E92 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1125791467 Label:PointLight13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5010.000 Y=-12780.000 Z=-360.000), Max=(X=-3010.000 Y=-10780.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:21892C104298AD28041A56A94D512E46 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1122491466 Label:PointLight12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4090.000 Y=-7910.000 Z=-360.000), Max=(X=-2090.000 Y=-5910.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:218E3B124735712D7EF272B4FB8E7FF6 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:2EBA5D1B4C8A9AC945F51FBBA0642DBA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F190E401_1525360278 Label:CubeGridToolOutput5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-200.000 Y=-3700.000 Z=0.000), Max=(X=5000.000 Y=4200.000 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:33B8118D4978E104852B16A10D92F863 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F190E401_2131052282 Label:PointLight4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-320.000 Y=-1440.000 Z=-860.000), Max=(X=1680.000 Y=560.000 Z=1140.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:396D762C431C713CDE7707AABB38A8F5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F18CE401_1940295567 Label:CubeGridToolOutput SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5200.000 Y=-10600.000 Z=0.000), Max=(X=6300.000 Y=1200.000 Z=700.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:3F515F1642D2B5666D552E824B2CD724 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1162463472 Label:PointLight18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5460.000 Y=-11250.000 Z=-360.000), Max=(X=7460.000 Y=-9250.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:482DEECE466D587A894DE994996CF6EC BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1077927461 Label:PointLight7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4070.000 Y=-5400.000 Z=-360.000), Max=(X=6070.000 Y=-3400.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:4D7FA1DD42A23C46CB2E5B8D055183A2 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F194E401_1304153977 Label:PointLight24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1100.000 Y=-550.000 Z=-860.000), Max=(X=3100.000 Y=1450.000 Z=1140.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:59F37B904CF5714B6EAFE886462C64F9 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F18FE401_2092963100 Label:PointLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2600.000 Y=-3440.000 Z=-360.000), Max=(X=4600.000 Y=-1440.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:638F70C044762E2095A209AFD7EB7C2B BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1165640473 Label:PointLight19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3070.000 Y=-11250.000 Z=-360.000), Max=(X=5070.000 Y=-9250.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:7FC5E7424FEE69FEC0E632B66EE57B48 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F194E401_1304151976 Label:PointLight23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-320.000 Y=-550.000 Z=-860.000), Max=(X=1680.000 Y=1450.000 Z=1140.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:8013B6EF439440289E86E4919733D402 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F190E401_2145925284 Label:PointLight6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1320.000 Y=-5400.000 Z=-360.000), Max=(X=3320.000 Y=-3400.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:81805F31468284CE80CC00801F6FB1C6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F18EE401_1395940921 Label:CubeGridToolOutput2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5500.000 Y=-13600.000 Z=0.000), Max=(X=200.000 Y=-3000.000 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:8185842B4568D78B8B55CBA3EED94257 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F194E401_1327090978 Label:PointLight25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=420.000 Y=-1010.000 Z=-900.000), Max=(X=2420.000 Y=990.000 Z=1100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:844B1501442FCF3C66457582E68C9B7F BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F190E401_2139028283 Label:PointLight5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2600.000 Y=-5400.000 Z=-360.000), Max=(X=4600.000 Y=-3400.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:8769B6494FD4BA9603D68B981DDAA35F BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1103086464 Label:PointLight10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1190.000 Y=-6760.000 Z=-520.000), Max=(X=810.000 Y=-4760.000 Z=1480.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:91F70086417B491B90D3E6A32F08E142 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F190E401_2127562281 Label:PointLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2600.000 Y=-3410.000 Z=-360.000), Max=(X=4600.000 Y=-1410.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:962D6BE34E7839A2A94E65B8F6CE5D43 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-240.000 Y=-40.000 Z=160.000), Max=(X=-160.000 Y=40.000 Z=344.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:9BE597DF4159946BEDC242BFD1EB11B1 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1137163468 Label:PointLight14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5890.000 Y=-11400.000 Z=-360.000), Max=(X=-3890.000 Y=-9400.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:AA3062D2464C1FA18508458A0A875E87 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1169221474 Label:PointLight20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4790.000 Y=-13190.000 Z=-360.000), Max=(X=6790.000 Y=-11190.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:B18D3BCD4B08101DE2CC7E949696A5F9 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1099223463 Label:PointLight9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=-6760.000 Z=-520.000), Max=(X=1750.000 Y=-4760.000 Z=1480.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:BB12141D4E405CFCD9A16A98E515676C BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1091615462 Label:PointLight8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-540.000 Y=-5400.000 Z=-360.000), Max=(X=1460.000 Y=-3400.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:BBC775614E0B01E16E26C09270DA439C BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1154013471 Label:PointLight17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1710.000 Y=-12270.000 Z=-360.000), Max=(X=3710.000 Y=-10270.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:C6BB4F64491379211141D398B93C3E4A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F18FE401_1194315099 Label:CubeGridToolOutput4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5400.000 Y=-13200.000 Z=-0.000), Max=(X=16900.000 Y=2400.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:C956555744F3BE6282D96181CC1F1B0D BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1150814470 Label:PointLight16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2750.000 Y=-14050.000 Z=-360.000), Max=(X=-750.000 Y=-12050.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:DA9CBA6745EFCA006B0D10ABB8BA4907 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F194E401_1269203975 Label:PointLight22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1100.000 Y=-1440.000 Z=-860.000), Max=(X=3100.000 Y=560.000 Z=1140.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:E4BAC2504415F669159AF890B13E67B4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F18EE401_1547730922 Label:CubeGridToolOutput3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5700.000 Y=-14400.000 Z=-0.000), Max=(X=17300.000 Y=3700.000 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:E4F81FCF409084E63AEA758F3B431903 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1143272469 Label:PointLight15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2750.000 Y=-11400.000 Z=-360.000), Max=(X=-750.000 Y=-9400.000 Z=1640.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:EDC4D2A54B2E3C012CF758A748639ADC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F190E401_2046650280 Label:roof SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5600.000 Y=-14200.000 Z=700.000), Max=(X=17900.000 Y=3000.000 Z=800.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:F9301766494986B1684E6A8E4649D367 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CF8C1F191E401_1253383475 Label:PointLight21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-406.408 Y=-446.408 Z=-86.408), Max=(X=526.408 Y=486.408 Z=846.408) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-5890.000 Y=-14400.000 Z=-1375.601), Max=(X=17900.000 Y=17300.000 Z=2655.601)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/FirstPerson/Maps/Map_Engineering
+----------------------------------------------------------------------------------------------------------------
+Map_Engineering - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Map_Engineering Persistent Level
+ |- Always loaded Actor Count: 14 
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.Brush_0
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.BuoyancyManager_0
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.ChaosDebugDrawActor
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering_InstanceOf_/Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/4/4P/54NH37RRX79SY3CKSHH353
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering_InstanceOf_/Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/0/5F/2KDASH4FFUXXUC6D4UHWI9
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PlayerStart_UAID_F02F74551BF5599B01_1153002503
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering_InstanceOf_/Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/C/3V/OJ1MGWTJ1DGRTDH6V3YM2X
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering_InstanceOf_/Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/5/K0/8LRH9U8QTH721XRADV88W5
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering_InstanceOf_/Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/E/IE/X6BGN1WRNJYOCN3L2QML71
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering_InstanceOf_/Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/A/MQ/1UPSOOKIQFBD9A94NYKBPD
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/1/D2/J2QWUBTMAI6HWC5H33EFQU
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.WorldPartitionReplay
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering
+ |- Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering
+
+----------------------------------------------------------------------------------------------------------------
+Map_Engineering - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=-5890.000 Y=-14400.000 Z=-1375.601), Max=(X=17900.000 Y=17300.000 Z=2655.601)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    2 | Cell Size   25600 | Actor Count   32 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell Map_Engineering_MainGrid_L0_X0_Y-1 (4ZH75TNCV5YC3IUHVED3NRBIH)
+ |   |- Actor Count: 1
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F191E401_1150814470
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/E/TL/ET7H29ZJQZY42NZR4E0F8J
+ |   |- Actor Instance Guid: C956555744F3BE6282D96181CC1F1B0D
+ |- [+] Content of Cell Map_Engineering_MainGrid_L0_X0_Y0 (5JAXF462V8K1XAGJS8MSDY63M)
+ |   |- Actor Count: 31
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F191E401_1116374465
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/8/0Z/N3C1XQ9VT903VX1Y7HM1A6
+ |   |- Actor Instance Guid: 1523CED74CB482F1E15C8898CD54D507
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F190E401_1776545279
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/5/7U/IYGKMBSIJYLOINQ46SZ9HF
+ |   |- Actor Instance Guid: 161F0C1E4E27293CEA9CE0B03191AE80
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F18DE401_1935517744
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/E/0S/ECJQW3B7A6JIS3JD2AAMQN
+ |   |- Actor Instance Guid: 1C031A9E4A10AE4364F87B87C7989E79
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F191E401_1125791467
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/7/QW/1B59VWFD5YKXX0XFHS12W6
+ |   |- Actor Instance Guid: 2039C8AB475AC145D39DC18F700D2E92
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F191E401_1122491466
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/1/TT/6YUKMMCH3O6QTCAVCCQY4X
+ |   |- Actor Instance Guid: 21892C104298AD28041A56A94D512E46
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F190E401_1525360278
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/8/A7/LBKCJBQDJL57EQUMV8G370
+ |   |- Actor Instance Guid: 2EBA5D1B4C8A9AC945F51FBBA0642DBA
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F190E401_2131052282
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/4/ML/QYVVNR8TY8MPE21HKI2Z04
+ |   |- Actor Instance Guid: 33B8118D4978E104852B16A10D92F863
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F18CE401_1940295567
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/B/N3/I0F0P1DHS41F6QR97LTESH
+ |   |- Actor Instance Guid: 396D762C431C713CDE7707AABB38A8F5
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F191E401_1162463472
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/8/CR/LXPXYL64Z4FZRMZW9IDB2U
+ |   |- Actor Instance Guid: 3F515F1642D2B5666D552E824B2CD724
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F191E401_1077927461
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/C/W0/C5SQPAE0OGMPUADWMLUXSK
+ |   |- Actor Instance Guid: 482DEECE466D587A894DE994996CF6EC
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F194E401_1304153977
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/A/PN/GZDWDDYT35UJSTEYWHW6GC
+ |   |- Actor Instance Guid: 4D7FA1DD42A23C46CB2E5B8D055183A2
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F18FE401_2092963100
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/C/82/254YWPJBHMO3AL53QW2RT2
+ |   |- Actor Instance Guid: 59F37B904CF5714B6EAFE886462C64F9
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F191E401_1165640473
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/2/6X/89DHQZ55SCTXJWI2FTTL6G
+ |   |- Actor Instance Guid: 638F70C044762E2095A209AFD7EB7C2B
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F194E401_1304151976
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/2/6F/V98ARZ6ITD9FD5BSQI5SRB
+ |   |- Actor Instance Guid: 7FC5E7424FEE69FEC0E632B66EE57B48
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F190E401_2145925284
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/7/D6/Q47N1LFT0FNMMN5E6PH9AE
+ |   |- Actor Instance Guid: 8013B6EF439440289E86E4919733D402
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F18EE401_1395940921
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/0/VO/PYZIKN8G3168KWC1H59RI1
+ |   |- Actor Instance Guid: 81805F31468284CE80CC00801F6FB1C6
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F194E401_1327090978
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/E/JN/1PM8Z6G7DZF6M3A1URQBBT
+ |   |- Actor Instance Guid: 8185842B4568D78B8B55CBA3EED94257
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F190E401_2139028283
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/9/GC/2WSHX048236NU5RWLSM9DW
+ |   |- Actor Instance Guid: 844B1501442FCF3C66457582E68C9B7F
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F191E401_1103086464
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/4/6L/A5CNVHRWEGWH4KS7R4Q7TA
+ |   |- Actor Instance Guid: 8769B6494FD4BA9603D68B981DDAA35F
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F190E401_2127562281
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/E/X8/MBFJ3F807J3QE20B1W966G
+ |   |- Actor Instance Guid: 91F70086417B491B90D3E6A32F08E142
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F191E401_1137163468
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/0/0G/F7BHB43PY20NHPXTFGHL48
+ |   |- Actor Instance Guid: 9BE597DF4159946BEDC242BFD1EB11B1
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F191E401_1169221474
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/4/OE/RKXR3SIJJYXU7QWNH09447
+ |   |- Actor Instance Guid: AA3062D2464C1FA18508458A0A875E87
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F191E401_1099223463
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/7/1Y/FZQO1QPL87Z7BPM0I6DKPN
+ |   |- Actor Instance Guid: B18D3BCD4B08101DE2CC7E949696A5F9
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F191E401_1091615462
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/7/2Q/951GELQ34PG9FE79A20CFT
+ |   |- Actor Instance Guid: BB12141D4E405CFCD9A16A98E515676C
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F191E401_1154013471
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/C/6D/67ZLQ4VGSXD3OTHD1THTCN
+ |   |- Actor Instance Guid: BBC775614E0B01E16E26C09270DA439C
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F18FE401_1194315099
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/E/H9/WL8ZLLCGM8HV8T6Z6ZIQKX
+ |   |- Actor Instance Guid: C6BB4F64491379211141D398B93C3E4A
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F194E401_1269203975
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/6/GL/CTXPPNEKMNRH2AKB9E5G8O
+ |   |- Actor Instance Guid: DA9CBA6745EFCA006B0D10ABB8BA4907
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F18EE401_1547730922
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/7/XS/DX3HSDJCGJZ9TRJMVYMS6W
+ |   |- Actor Instance Guid: E4BAC2504415F669159AF890B13E67B4
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F191E401_1143272469
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/B/YB/83151UG45WT3ZNVKAX1X5R
+ |   |- Actor Instance Guid: E4F81FCF409084E63AEA758F3B431903
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F190E401_2046650280
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/9/0N/SMLERI9LAYCMK49WDNKKNK
+ |   |- Actor Instance Guid: EDC4D2A54B2E3C012CF758A748639ADC
+ |   |-          Actor Path: /Game/FirstPerson/Maps/UEDPIE_0_Map_Engineering.Map_Engineering:PersistentLevel.PointLight_UAID_74563CF8C1F191E401_1253383475
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Engineering/B/S2/ST6SQN63U0JVVKQ50XHWC1
+ |   |- Actor Instance Guid: F9301766494986B1684E6A8E4649D367
+[+] Content of Grid Level 1
+
