@@ -1,0 +1,6 @@
+2024/06/05-13:33:07.384 c510 Creating DB C:/Users/Daniel/Documents/GitHub/TAFE_HerbicideGame/Herbicide/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/06/05-13:33:07.393 c510 Reusing MANIFEST C:/Users/Daniel/Documents/GitHub/TAFE_HerbicideGame/Herbicide/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/05-13:35:36.368 da8 Level-0 table #5: started
+2024/06/05-13:35:36.379 da8 Level-0 table #5: 1167 bytes OK
+2024/06/05-13:35:36.381 da8 Delete type=0 #3
+2024/06/05-13:35:36.382 da8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
