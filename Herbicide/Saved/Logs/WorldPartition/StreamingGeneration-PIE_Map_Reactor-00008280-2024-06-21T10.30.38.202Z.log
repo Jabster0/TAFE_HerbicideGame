@@ -1,0 +1,856 @@
+[+] Containers:
+ |- [+] Container: /Game/Maps/Map_Reactor
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:00D1938249B5DD6EDE3885B30DFEBB2D BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1546778597 Label:BP_ZombieMilitary24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7105.185 Y=1182.220 Z=4198.835), Max=(X=7204.500 Y=1272.571 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0B1075634769C087D69FA0867984C04B BaseClass:/Game/Blueprints/BP_Pickup_Shotgun.BP_Pickup_Shotgun_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_Shotgun_C_UAID_4CD71793428D6C0102_1614114608 Label:BP_Pickup_Shotgun3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12430.786 Y=-768.982 Z=4171.896), Max=(X=12590.786 Y=-584.171 Z=4331.896) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0DDF48F04BFA1438942B469C0FB19268 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_4CD71793428D6C0102_1320645566 Label:PointLight5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-11807.123 Y=-16395.772 Z=-10851.207), Max=(X=20960.877 Y=16372.228 Z=21916.793) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0EFC3ECE474333B4FBBB1E9E8D7BAAE0 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1502958580 Label:BP_ZombieMilitary7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4624.673 Y=2450.374 Z=4198.835), Max=(X=4723.988 Y=2540.725 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0FE0FF7C48F6755A7E7BF1930247900B BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_00FF697D6523F2EF01_1984216136 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=3690.000), Max=(X=0.000 Y=0.000 Z=3690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:14137FD542CBFF94679186AE3951456D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1735636221 Label:SuperGrid_Box10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10257.369 Y=-2587.887 Z=4400.000), Max=(X=10932.369 Y=-2562.887 Z=4600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:161F0C1E4E27293CEA9CE0B03191AE80 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F190E401_1776545279 Label:CubeGridToolOutput6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3030.000 Y=3900.000 Z=-1200.000), Max=(X=10770.000 Y=17300.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Adams blockout FolderGuid:CD952FDA41A21551B64DF5BBBD0C85D9
+ |   |   |- Guid:16A02B7044166A0A0A30F98F5872F8D7 BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_047C1641A2364E0002_1565759236 Label:TriggerBox6 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3464.526 Y=-564.465 Z=4192.833), Max=(X=3924.141 Y=-49.736 Z=4652.448) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1A6A37AA4DFE5CC4741E408EACB51C7E BaseClass: NativeClass:/Script/Engine.AmbientSound Name:AmbientSound_UAID_047C1641A23646FF01_1831936763 Label:Seeds_of_Agony__Level_2_Combat_ SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7061.040 Y=102.621 Z=4408.786), Max=(X=7061.040 Y=102.621 Z=4408.786) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1B3674E94EE580DCEC701296A63523F6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1903714226 Label:SuperGrid_CylinderFull5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8405.347 Y=1927.898 Z=4200.000), Max=(X=8505.347 Y=2027.898 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1CBB3DE2429D57A9231BEFBACFDF6DD2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1820584224 Label:SuperGrid_Box12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10062.145 Y=2071.414 Z=4400.000), Max=(X=10737.145 Y=2096.414 Z=4600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:202B84AE4772C4FC1D6F6EB28D011531 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D652326F301_1368906460 Label:SuperGrid_Box16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9243.936 Y=-687.887 Z=5419.629), Max=(X=9268.936 Y=12.113 Z=5619.629) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:24FE1559439440E13A5EAF82B3F96D74 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1497200578 Label:BP_ZombieMilitary5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4623.359 Y=2137.048 Z=4198.835), Max=(X=4722.674 Y=2227.399 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:290E0AFF49E1356128164AB872200C60 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_4CD71793428D6C0102_1389546568 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-473.229 Y=-11841.718 Z=3632.769), Max=(X=22075.264 Y=10706.774 Z=5979.115) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2DA02FE443FECE5344556A8B248E4342 BaseClass:/Game/Blueprints/BP_Brute.BP_Brute_C NativeClass:/Script/Engine.Character Name:BP_Brute_C_UAID_4CD71793428D6C0102_1467422572 Label:BP_Brute4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6677.623 Y=1014.973 Z=4175.133), Max=(X=6916.111 Y=1334.768 Z=4585.987) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2EBA5D1B4C8A9AC945F51FBBA0642DBA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F190E401_1525360278 Label:CubeGridToolOutput5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-200.000 Y=-3700.000 Z=0.000), Max=(X=5000.000 Y=4200.000 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Adams blockout FolderGuid:CD952FDA41A21551B64DF5BBBD0C85D9
+ |   |   |- Guid:2ED90CB0433501B1B060E8B6ACB3333D BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1512763585 Label:BP_ZombieMilitary12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3928.873 Y=3423.050 Z=4198.835), Max=(X=4028.188 Y=3513.401 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:322A989A477488306872F0B6C006E162 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1548138598 Label:BP_ZombieMilitary25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7104.682 Y=1062.155 Z=4198.835), Max=(X=7203.997 Y=1152.506 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3465DECC4566DFC4A5C1A1B0ED0D02A2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1948245233 Label:SuperGrid_CylinderFull12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7868.664 Y=-1141.298 Z=4200.000), Max=(X=7968.664 Y=-1041.298 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:356C45054D5284A8AC9F35AA3661B7B5 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1494472576 Label:BP_ZombieMilitary3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4040.946 Y=1344.898 Z=4198.835), Max=(X=4140.261 Y=1435.249 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:36C010D04FB2CFDB0D90D3A6BCB9944E BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_4CD71793428D6C0102_1277940562 Label:PointLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7109.748 Y=-15048.306 Z=-10851.207), Max=(X=25658.252 Y=17719.694 Z=21916.793) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3799F11D4B74CD56FE51AB98D9176545 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_00FF697D6523F2EF01_1984219138 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=3560.000), Max=(X=0.000 Y=0.000 Z=3560.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:381BF9234A75D0152D9CFAAD838918D2 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1485660574 Label:BP_ZombieMilitary SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4042.389 Y=1689.164 Z=4198.835), Max=(X=4141.704 Y=1779.515 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:396D762C431C713CDE7707AABB38A8F5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F18CE401_1940295567 Label:CubeGridToolOutput SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5200.000 Y=-10600.000 Z=0.000), Max=(X=6300.000 Y=1200.000 Z=700.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Adams blockout FolderGuid:CD952FDA41A21551B64DF5BBBD0C85D9
+ |   |   |- Guid:464A5A2647A53609945540AC9F6AA04E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F5EF01_1535512681 Label:SuperGrid_CylinderFull2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7937.500 Y=-962.500 Z=4500.000), Max=(X=9262.500 Y=362.500 Z=5800.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:468B2E8D45F522BBA60A2D9C8C0F48F0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1873111225 Label:SuperGrid_CylinderFull4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9033.059 Y=826.235 Z=4200.000), Max=(X=9133.059 Y=926.235 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4C9C31614F532359E25F849C1893B2C1 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_4CD71793428D6C0102_1301756563 Label:PointLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7109.748 Y=-18075.216 Z=-10851.207), Max=(X=25658.252 Y=14692.784 Z=21916.793) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4F8598A04E0E400EE4AFC8BE86F2CC2E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1963232238 Label:SuperGrid_CylinderFull17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9289.668 Y=-739.645 Z=4200.000), Max=(X=9389.668 Y=-639.645 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:51E9EB7F4FAC1597EECF11AF9F86DF10 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_00FF697D6523F2EF01_1984215135 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-3980.000), Max=(X=-5600.000 Y=-50.000 Z=-3980.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:52368A8048EAEA70855A4593623E6F50 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1511899584 Label:BP_ZombieMilitary11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3928.381 Y=3305.842 Z=4198.835), Max=(X=4027.696 Y=3396.193 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:55C867784A64E8F5EEBD5298A64E7D9C BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1549192599 Label:BP_ZombieMilitary26 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7104.682 Y=1062.155 Z=4198.835), Max=(X=7203.997 Y=1152.506 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5BEF72A84E4DC06717D839840B1458DD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1597778220 Label:WallSegment2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13990.000 Y=-400.000 Z=4600.000), Max=(X=14010.000 Y=0.000 Z=5000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:64C337CF46868183F93899806FA86EDE BaseClass:/Game/Blueprints/BP_Brute.BP_Brute_C NativeClass:/Script/Engine.Character Name:BP_Brute_C_UAID_4CD71793428D6C0102_1354831567 Label:BP_Brute SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3993.744 Y=1710.206 Z=4175.133), Max=(X=4232.233 Y=2030.001 Z=4585.987) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:650289BE456875F34C1AEB974CFE927F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1493506217 Label:SuperGrid_Box7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6457.369 Y=-2587.887 Z=4400.000), Max=(X=7132.369 Y=-2562.887 Z=4600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6D856C074C2554F3066927AE3D8208BA BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1536893592 Label:BP_ZombieMilitary19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7109.506 Y=2212.546 Z=4198.835), Max=(X=7208.821 Y=2302.897 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:717E1A5E438BEA5D95E344B235488AF8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1922849229 Label:SuperGrid_CylinderFull8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6745.276 Y=-100.412 Z=4200.000), Max=(X=6845.276 Y=-0.412 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:77E8F2874CD2C4848D64678B75C94381 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1965962239 Label:SuperGrid_CylinderFull18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7443.282 Y=438.049 Z=4200.000), Max=(X=7543.282 Y=538.049 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:783763094AC3A91184307C89000BECC3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F2EF01_1984221140 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1637675.000), Max=(X=1638400.000 Y=1638400.000 Z=1639125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:790C61664925C96E9A4B548428E3C8C1 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_4CD71793428D6C0102_1315048565 Label:PointLight4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-9445.587 Y=-16395.772 Z=-10851.207), Max=(X=23322.413 Y=16372.228 Z=21916.793) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:79E155A644CD3EE4C0B90D9C84D2FAAF BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1501417579 Label:BP_ZombieMilitary6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4623.984 Y=2286.236 Z=4198.835), Max=(X=4723.299 Y=2376.587 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7A4895A84CFEAA51234017BCF4604302 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F2EF01_2013436142 Label:SuperGrid_Box2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3264.289 Y=-3123.663 Z=4098.835), Max=(X=14064.289 Y=2651.338 Z=4198.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7E0350CC4A011E9E4793C3B9AD2FE49D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F5EF01_1651034685 Label:SuperGrid_Box5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10094.001 Y=1797.262 Z=4200.000), Max=(X=10694.001 Y=1897.262 Z=4300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8068F8804EC50E11797B079F7A53585B BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1493184575 Label:BP_ZombieMilitary2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4041.881 Y=1567.893 Z=4198.835), Max=(X=4141.196 Y=1658.245 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:81805F31468284CE80CC00801F6FB1C6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F18EE401_1395940921 Label:CubeGridToolOutput2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5500.000 Y=-13600.000 Z=0.000), Max=(X=200.000 Y=-3000.000 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Adams blockout FolderGuid:CD952FDA41A21551B64DF5BBBD0C85D9
+ |   |   |- Guid:825F010543E40D0F046DB291954743DF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1971547241 Label:SuperGrid_CylinderFull20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10062.272 Y=397.125 Z=4200.000), Max=(X=10162.272 Y=497.125 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:82E7419940A3BC9CFFA4F8B523B2B7A8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1956218236 Label:SuperGrid_CylinderFull15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8378.806 Y=-2328.560 Z=4200.000), Max=(X=8478.806 Y=-2228.560 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:85FAC462486A69A4B7EBA78469650710 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1529254588 Label:BP_ZombieMilitary15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7113.696 Y=3211.511 Z=4198.835), Max=(X=7213.011 Y=3301.862 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:86392FED4F4DD57D1ABABF9D0BA2C68F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_4CD71793428D6B0102_2104271384 Label:SM_MERGED_BP_SplineWall_C_UAID_00FF697D6523F4EF01_2113572501 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3477.474 Y=-3131.397 Z=4186.573), Max=(X=14020.628 Y=2588.602 Z=5786.573) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:86AAC3D347C119F194374C9B008DE671 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D652326F301_1363483458 Label:SuperGrid_Box14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7932.369 Y=-687.887 Z=5475.288), Max=(X=7957.369 Y=12.113 Z=5675.288) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:86F0AD1B43E4F62EEE3A708FD801CD97 BaseClass:/Game/Blueprints/BP_Brute.BP_Brute_C NativeClass:/Script/Engine.Character Name:BP_Brute_C_UAID_4CD71793428D6C0102_1466105571 Label:BP_Brute3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6676.231 Y=3751.343 Z=4175.133), Max=(X=6914.719 Y=4071.138 Z=4585.987) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:883D7F8D4C6D1CB8A2651285B2F9A5AA BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1510061583 Label:BP_ZombieMilitary10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3927.904 Y=3192.074 Z=4198.835), Max=(X=4027.219 Y=3282.425 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8B1472AA4740A0D68739E5BAAFF3B54E BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1526951587 Label:BP_ZombieMilitary14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7114.070 Y=3300.787 Z=4198.835), Max=(X=7213.385 Y=3391.138 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8E31A2A54FA750FB741CEC88885A9B5C BaseClass:/Game/Blueprints/BP_Pickup_rifle1.BP_Pickup_rifle1_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_rifle1_C_UAID_4CD71793428D6C0102_1602787605 Label:BP_Pickup_rifle2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8529.174 Y=-1106.222 Z=4164.942), Max=(X=8657.174 Y=-978.222 Z=4292.942) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8EBDE0174D28AFEB57FBB0BD827023CD BaseClass:/Game/Blueprints/BP_Brute.BP_Brute_C NativeClass:/Script/Engine.Character Name:BP_Brute_C_UAID_4CD71793428D6C0102_1461070570 Label:BP_Brute2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3992.707 Y=3749.978 Z=4175.133), Max=(X=4231.195 Y=4069.773 Z=4585.987) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:935A76A34CBA8A2111E227ABB0747079 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D65239CEF01_1320342999 Label:SuperGrid_Box SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7000.000 Y=8300.000 Z=15300.000), Max=(X=-6900.000 Y=8400.000 Z=15400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:962D6BE34E7839A2A94E65B8F6CE5D43 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3560.000 Y=-341.022 Z=4196.831), Max=(X=3640.000 Y=-261.022 Z=4380.831) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:96D4B49841A0689C81240B99700A42B4 BaseClass:/Game/Blueprints/BP_Pickup_Pistol.BP_Pickup_Pistol_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_Pistol_C_UAID_4CD71793428D6C0102_1568920600 Label:BP_Pickup_Pistol SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3884.188 Y=-620.114 Z=4212.647), Max=(X=3948.188 Y=-556.114 Z=4276.647) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:986E166A412B2C9C48A53CA2864A0071 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1542399218 Label:SuperGrid_Box8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7932.369 Y=-687.887 Z=4700.000), Max=(X=7957.369 Y=12.113 Z=4900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9BF074BF4A20BD2891CB9FA814D93DE5 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1545910596 Label:BP_ZombieMilitary23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7105.600 Y=1281.054 Z=4198.835), Max=(X=7204.915 Y=1371.405 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9CC3A43840EEC99F0C43C6B8FD553B53 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_4CD71793428D6C0102-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9D1D0A1841FADCD1AA1DF28B3573B1BC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F5EF01_1654911686 Label:SuperGrid_Box6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6366.194 Y=1789.505 Z=4200.000), Max=(X=6966.194 Y=1889.505 Z=4300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9D60701D441FAC78CB6CD085EF683F34 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F5EF01_1158487679 Label:WallDoor2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13990.000 Y=-400.000 Z=4200.000), Max=(X=14010.000 Y=0.000 Z=4600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A0A5E45B4D3293CC79F6C9B83EDC659E BaseClass:/Game/Tools/BP_SplineWall.BP_SplineWall_C NativeClass:/Script/Engine.Actor Name:BP_SplineWall_C_UAID_00FF697D652326F301_1110509455 Label:BP_SplineWall3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3480.000 Y=-3110.000 Z=5000.000), Max=(X=14020.000 Y=2610.000 Z=5900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A0B040C24CF9AFF67CE1A5A027AF2ED4 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1530366589 Label:BP_ZombieMilitary16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7113.270 Y=3109.937 Z=4198.835), Max=(X=7212.585 Y=3200.289 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A51740D9403719CB0F9C879D4E3DECE8 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_4CD71793428D6C0102_1306088564 Label:PointLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4242.214 Y=-16395.772 Z=-10851.207), Max=(X=28525.786 Y=16372.228 Z=21916.793) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A5452F3445CF36A44D444E81539E5BAC BaseClass:/Game/Blueprints/BP_Pickup_Pistol.BP_Pickup_Pistol_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_Pistol_C_UAID_4CD71793428D6C0102_1608889606 Label:BP_Pickup_Pistol3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11844.965 Y=-704.174 Z=4218.740), Max=(X=11908.965 Y=-640.174 Z=4282.740) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A955565141C7CFDD11C3F1B891A1DE48 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1981973245 Label:SuperGrid_CylinderFull24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10399.598 Y=-495.310 Z=4200.000), Max=(X=10499.598 Y=-395.310 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AB3A68A641440293E8A3878CD9320C94 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F5EF01_1622383684 Label:SuperGrid_Box4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10257.369 Y=-2387.887 Z=4200.000), Max=(X=10857.369 Y=-2287.887 Z=4300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AF9F1E2742462A271D3F2C90B09EABEB BaseClass:/Game/Blueprints/BP_Pickup_Pistol.BP_Pickup_Pistol_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_Pistol_C_UAID_4CD71793428D6C0102_1588668603 Label:BP_Pickup_Pistol2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8577.067 Y=361.043 Z=4193.154), Max=(X=8641.067 Y=425.043 Z=4257.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B0D328D3472F0515112EEC9DCBFE542C BaseClass:/Game/Blueprints/BP_Brute.BP_Brute_C NativeClass:/Script/Engine.Character Name:BP_Brute_C_UAID_4CD71793428D6C0102_1469278573 Label:BP_Brute5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3364.726 Y=2637.726 Z=4175.133), Max=(X=3603.215 Y=2957.521 Z=4585.987) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B16BD2D34266E3A367B392B159B3C8EB BaseClass:/Game/Blueprints/BP_Pickup_Shotgun.BP_Pickup_Shotgun_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_Shotgun_C_UAID_4CD71793428D6C0102_1593622604 Label:BP_Pickup_Shotgun2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8475.239 Y=-383.705 Z=4173.968), Max=(X=8635.239 Y=-198.894 Z=4333.968) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B2548B9E4FB8A050F17DD0BE0170D277 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_00FF697D6523F2EF01_1984222141 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=3270.000), Max=(X=200.000 Y=200.000 Z=3470.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:B7EEE5544D95C881D7BC73965BB2EF6F BaseClass:/Game/Blueprints/BP_Pickup_rifle1.BP_Pickup_rifle1_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_rifle1_C_UAID_4CD71793428D6C0102_1576465601 Label:BP_Pickup_rifle1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3871.300 Y=-483.272 Z=4191.820), Max=(X=3999.300 Y=-355.272 Z=4319.820) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BFA06A004A47D19EC3A735B3FF09BBB9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F5EF01_1601823683 Label:SuperGrid_Box3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6500.200 Y=-2387.887 Z=4200.000), Max=(X=7100.200 Y=-2287.887 Z=4300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C491D7634E649A36AA27C5B1AEA8BB19 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F5EF01_1113541678 Label:WallDoor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3490.000 Y=-500.000 Z=4200.000), Max=(X=3510.000 Y=-100.000 Z=4600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C58A182745051B65CF8ECF9A298851FE BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_00FF697D6523F2EF01_1984220139 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=3890.000), Max=(X=0.000 Y=0.000 Z=3890.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:C5A34C304D89BA415502DEB200507254 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F5EF01_1240814680 Label:SuperGrid_CylinderFull SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8375.000 Y=-925.000 Z=4200.000), Max=(X=8825.000 Y=-475.000 Z=4550.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C6BB4F64491379211141D398B93C3E4A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F18FE401_1194315099 Label:CubeGridToolOutput4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5400.000 Y=-13200.000 Z=-0.000), Max=(X=16900.000 Y=2400.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Adams blockout FolderGuid:CD952FDA41A21551B64DF5BBBD0C85D9
+ |   |   |- Guid:CA3B303540A8E64386C959812A86444A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D652326F301_1361556457 Label:SuperGrid_Box13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7932.369 Y=-687.887 Z=5076.022), Max=(X=7957.369 Y=12.113 Z=5276.022) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CC0F9EE545C948280925BE9915737DF2 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1505664582 Label:BP_ZombieMilitary9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3927.392 Y=3070.047 Z=4198.835), Max=(X=4026.707 Y=3160.398 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CCA97ED744215B17F7A250B5D173277F BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1535617591 Label:BP_ZombieMilitary18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7109.944 Y=2317.053 Z=4198.835), Max=(X=7209.259 Y=2407.404 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CD82187342DB9233030029A17099746C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_00FF697D6523F2EF01_1984218137 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:D17D40D04FDC1BF75C48DE8D8156ADE2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1770867222 Label:SuperGrid_Box11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6257.369 Y=2058.289 Z=4400.000), Max=(X=6932.369 Y=2083.289 Z=4600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DBB50147431B5A5A75F2D5B78E32479C BaseClass:/Game/Blueprints/BP_Pickup_Shotgun.BP_Pickup_Shotgun_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_Shotgun_C_UAID_4CD71793428D6C0102_1580423602 Label:BP_Pickup_Shotgun SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3811.612 Y=-247.869 Z=4170.467), Max=(X=3971.612 Y=-63.058 Z=4330.467) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DD46C2754109D2F5A079949F7389B88B BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1514411586 Label:BP_ZombieMilitary13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7114.527 Y=3409.690 Z=4198.835), Max=(X=7213.842 Y=3500.042 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DDC15DF94D7648FD91221B82060A1078 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1532054590 Label:BP_ZombieMilitary17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7110.304 Y=2402.730 Z=4198.835), Max=(X=7209.619 Y=2493.082 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E331FFCD427503E2A63A7E8223776705 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D652326F301_1366892459 Label:SuperGrid_Box15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9243.936 Y=-687.887 Z=5053.788), Max=(X=9268.936 Y=12.113 Z=5253.788) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E4BAC2504415F669159AF890B13E67B4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F18EE401_1547730922 Label:CubeGridToolOutput3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5700.000 Y=-14400.000 Z=-0.000), Max=(X=17300.000 Y=3700.000 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Adams blockout FolderGuid:CD952FDA41A21551B64DF5BBBD0C85D9
+ |   |   |- Guid:E52978314BF7F40F6A816C880BADBE63 BaseClass:/Game/Blueprints/BP_Pickup_rifle1.BP_Pickup_rifle1_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_rifle1_C_UAID_4CD71793428D6C0102_1610961607 Label:BP_Pickup_rifle3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12118.102 Y=-727.722 Z=4201.885), Max=(X=12246.102 Y=-599.722 Z=4329.885) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E6C48D3C468FBC19394111AD6D821167 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1992105248 Label:SuperGrid_CylinderFull27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9950.000 Y=-1861.905 Z=4200.000), Max=(X=10050.000 Y=-1761.905 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E7630631432D148A806F34AC88A02B14 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_4CD71793428D6C0102_1668973610 Label:Box3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13994.423 Y=-310.951 Z=4172.348), Max=(X=14205.072 Y=-100.301 Z=4669.979) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E770F32C417E94CE217C9D8462036EFC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1581709219 Label:SuperGrid_Box9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9243.936 Y=-687.887 Z=4700.000), Max=(X=9268.936 Y=12.113 Z=4900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EDCD40564EA2C3CDEEC46EAAF091DE3C BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1495688577 Label:BP_ZombieMilitary4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4041.483 Y=1473.051 Z=4198.835), Max=(X=4140.798 Y=1563.403 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EF83D7574D24E0D31ADCF5B6CA06E357 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1925264230 Label:SuperGrid_CylinderFull9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7024.327 Y=-850.000 Z=4200.000), Max=(X=7124.327 Y=-750.000 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EFA179F34513CC773DDADE83156B842F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_4CD71793428D6C0102_1648398609 Label:Box2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3294.041 Y=-415.899 Z=4172.349), Max=(X=3504.690 Y=-205.250 Z=4669.979) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F177201C43E76F592C4E8490B80FDEC7 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1537821593 Label:BP_ZombieMilitary20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7109.057 Y=2105.471 Z=4198.835), Max=(X=7208.372 Y=2195.822 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F4285FFF4ACAEADADB52439E1CE675B2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F5EF01_1580560682 Label:SuperGrid_CylinderFull3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8375.000 Y=-125.000 Z=4200.000), Max=(X=8825.000 Y=325.000 Z=4550.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F4377D964E6F917E7A780599873B802E BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1539117594 Label:BP_ZombieMilitary21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7109.057 Y=2105.471 Z=4198.835), Max=(X=7208.372 Y=2195.822 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F441106E4CA307C0D549F8A4AE9633BE BaseClass:/Game/Tools/BP_SplineWall.BP_SplineWall_C NativeClass:/Script/Engine.Actor Name:BP_SplineWall_C_UAID_00FF697D6523F4EF01_2113572501 Label:BP_SplineWall2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3476.846 Y=-120.000 Z=4200.000), Max=(X=14016.846 Y=2610.000 Z=5000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F7D4DD5B4C52DB34BDD8F2A7AF91B43C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1465965216 Label:WallSegment SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3486.846 Y=-500.000 Z=4600.000), Max=(X=3506.846 Y=-100.000 Z=5000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F99C55FC4ED079C628A10793B123C083 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1504222581 Label:BP_ZombieMilitary8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4625.248 Y=2587.535 Z=4198.835), Max=(X=4724.563 Y=2677.887 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FDFC489D4973421A2A23328B36D90FDB BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1544630595 Label:BP_ZombieMilitary22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7106.108 Y=1402.249 Z=4198.835), Max=(X=7205.423 Y=1492.601 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FEDB2A5C4188A2E14893728ED1B40348 BaseClass:/Game/Tools/BP_SplineWall.BP_SplineWall_C NativeClass:/Script/Engine.Actor Name:BP_SplineWall_C_UAID_00FF697D6523F3EF01_1666940324 Label:BP_SplineWall SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3476.846 Y=-3110.000 Z=4200.000), Max=(X=14016.846 Y=-380.000 Z=5000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FFDC4E3C4AB47209BFDE5E9460678726 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_4CD71793428D6C0102_1215217561 Label:Box SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=51.436 Y=-6721.658 Z=5819.608), Max=(X=15594.030 Y=8820.935 Z=5934.148) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:00D1938249B5DD6EDE3885B30DFEBB2D BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1546778597 Label:BP_ZombieMilitary24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7105.185 Y=1182.220 Z=4198.835), Max=(X=7204.500 Y=1272.571 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0B1075634769C087D69FA0867984C04B BaseClass:/Game/Blueprints/BP_Pickup_Shotgun.BP_Pickup_Shotgun_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_Shotgun_C_UAID_4CD71793428D6C0102_1614114608 Label:BP_Pickup_Shotgun3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12430.786 Y=-768.982 Z=4171.896), Max=(X=12590.786 Y=-584.171 Z=4331.896) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:0DDF48F04BFA1438942B469C0FB19268 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_4CD71793428D6C0102_1320645566 Label:PointLight5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-11807.123 Y=-16395.772 Z=-10851.207), Max=(X=20960.877 Y=16372.228 Z=21916.793) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:0EFC3ECE474333B4FBBB1E9E8D7BAAE0 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1502958580 Label:BP_ZombieMilitary7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4624.673 Y=2450.374 Z=4198.835), Max=(X=4723.988 Y=2540.725 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:0FE0FF7C48F6755A7E7BF1930247900B BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_00FF697D6523F2EF01_1984216136 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=3690.000), Max=(X=0.000 Y=0.000 Z=3690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:14137FD542CBFF94679186AE3951456D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1735636221 Label:SuperGrid_Box10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10257.369 Y=-2587.887 Z=4400.000), Max=(X=10932.369 Y=-2562.887 Z=4600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:161F0C1E4E27293CEA9CE0B03191AE80 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F190E401_1776545279 Label:CubeGridToolOutput6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3030.000 Y=3900.000 Z=-1200.000), Max=(X=10770.000 Y=17300.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Adams blockout FolderGuid:CD952FDA41A21551B64DF5BBBD0C85D9
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:16A02B7044166A0A0A30F98F5872F8D7 BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_047C1641A2364E0002_1565759236 Label:TriggerBox6 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3464.526 Y=-564.465 Z=4192.833), Max=(X=3924.141 Y=-49.736 Z=4652.448) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:1A6A37AA4DFE5CC4741E408EACB51C7E BaseClass: NativeClass:/Script/Engine.AmbientSound Name:AmbientSound_UAID_047C1641A23646FF01_1831936763 Label:Seeds_of_Agony__Level_2_Combat_ SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7061.040 Y=102.621 Z=4408.786), Max=(X=7061.040 Y=102.621 Z=4408.786) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:1B3674E94EE580DCEC701296A63523F6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1903714226 Label:SuperGrid_CylinderFull5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8405.347 Y=1927.898 Z=4200.000), Max=(X=8505.347 Y=2027.898 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:1CBB3DE2429D57A9231BEFBACFDF6DD2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1820584224 Label:SuperGrid_Box12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10062.145 Y=2071.414 Z=4400.000), Max=(X=10737.145 Y=2096.414 Z=4600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:202B84AE4772C4FC1D6F6EB28D011531 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D652326F301_1368906460 Label:SuperGrid_Box16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9243.936 Y=-687.887 Z=5419.629), Max=(X=9268.936 Y=12.113 Z=5619.629) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:24FE1559439440E13A5EAF82B3F96D74 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1497200578 Label:BP_ZombieMilitary5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4623.359 Y=2137.048 Z=4198.835), Max=(X=4722.674 Y=2227.399 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:290E0AFF49E1356128164AB872200C60 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_4CD71793428D6C0102_1389546568 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-473.229 Y=-11841.718 Z=3632.769), Max=(X=22075.264 Y=10706.774 Z=5979.115) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:2DA02FE443FECE5344556A8B248E4342 BaseClass:/Game/Blueprints/BP_Brute.BP_Brute_C NativeClass:/Script/Engine.Character Name:BP_Brute_C_UAID_4CD71793428D6C0102_1467422572 Label:BP_Brute4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6677.623 Y=1014.973 Z=4175.133), Max=(X=6916.111 Y=1334.768 Z=4585.987) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:2EBA5D1B4C8A9AC945F51FBBA0642DBA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F190E401_1525360278 Label:CubeGridToolOutput5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-200.000 Y=-3700.000 Z=0.000), Max=(X=5000.000 Y=4200.000 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Adams blockout FolderGuid:CD952FDA41A21551B64DF5BBBD0C85D9
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:2ED90CB0433501B1B060E8B6ACB3333D BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1512763585 Label:BP_ZombieMilitary12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3928.873 Y=3423.050 Z=4198.835), Max=(X=4028.188 Y=3513.401 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:322A989A477488306872F0B6C006E162 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1548138598 Label:BP_ZombieMilitary25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7104.682 Y=1062.155 Z=4198.835), Max=(X=7203.997 Y=1152.506 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:3465DECC4566DFC4A5C1A1B0ED0D02A2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1948245233 Label:SuperGrid_CylinderFull12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7868.664 Y=-1141.298 Z=4200.000), Max=(X=7968.664 Y=-1041.298 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:356C45054D5284A8AC9F35AA3661B7B5 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1494472576 Label:BP_ZombieMilitary3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4040.946 Y=1344.898 Z=4198.835), Max=(X=4140.261 Y=1435.249 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:36C010D04FB2CFDB0D90D3A6BCB9944E BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_4CD71793428D6C0102_1277940562 Label:PointLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7109.748 Y=-15048.306 Z=-10851.207), Max=(X=25658.252 Y=17719.694 Z=21916.793) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:3799F11D4B74CD56FE51AB98D9176545 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_00FF697D6523F2EF01_1984219138 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=3560.000), Max=(X=0.000 Y=0.000 Z=3560.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:381BF9234A75D0152D9CFAAD838918D2 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1485660574 Label:BP_ZombieMilitary SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4042.389 Y=1689.164 Z=4198.835), Max=(X=4141.704 Y=1779.515 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:396D762C431C713CDE7707AABB38A8F5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F18CE401_1940295567 Label:CubeGridToolOutput SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5200.000 Y=-10600.000 Z=0.000), Max=(X=6300.000 Y=1200.000 Z=700.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Adams blockout FolderGuid:CD952FDA41A21551B64DF5BBBD0C85D9
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:464A5A2647A53609945540AC9F6AA04E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F5EF01_1535512681 Label:SuperGrid_CylinderFull2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7937.500 Y=-962.500 Z=4500.000), Max=(X=9262.500 Y=362.500 Z=5800.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:468B2E8D45F522BBA60A2D9C8C0F48F0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1873111225 Label:SuperGrid_CylinderFull4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9033.059 Y=826.235 Z=4200.000), Max=(X=9133.059 Y=926.235 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:4C9C31614F532359E25F849C1893B2C1 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_4CD71793428D6C0102_1301756563 Label:PointLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7109.748 Y=-18075.216 Z=-10851.207), Max=(X=25658.252 Y=14692.784 Z=21916.793) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:4F8598A04E0E400EE4AFC8BE86F2CC2E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1963232238 Label:SuperGrid_CylinderFull17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9289.668 Y=-739.645 Z=4200.000), Max=(X=9389.668 Y=-639.645 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:51E9EB7F4FAC1597EECF11AF9F86DF10 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_00FF697D6523F2EF01_1984215135 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-3980.000), Max=(X=-5600.000 Y=-50.000 Z=-3980.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:52368A8048EAEA70855A4593623E6F50 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1511899584 Label:BP_ZombieMilitary11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3928.381 Y=3305.842 Z=4198.835), Max=(X=4027.696 Y=3396.193 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:55C867784A64E8F5EEBD5298A64E7D9C BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1549192599 Label:BP_ZombieMilitary26 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7104.682 Y=1062.155 Z=4198.835), Max=(X=7203.997 Y=1152.506 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:5BEF72A84E4DC06717D839840B1458DD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1597778220 Label:WallSegment2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13990.000 Y=-400.000 Z=4600.000), Max=(X=14010.000 Y=0.000 Z=5000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:64C337CF46868183F93899806FA86EDE BaseClass:/Game/Blueprints/BP_Brute.BP_Brute_C NativeClass:/Script/Engine.Character Name:BP_Brute_C_UAID_4CD71793428D6C0102_1354831567 Label:BP_Brute SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3993.744 Y=1710.206 Z=4175.133), Max=(X=4232.233 Y=2030.001 Z=4585.987) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:650289BE456875F34C1AEB974CFE927F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1493506217 Label:SuperGrid_Box7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6457.369 Y=-2587.887 Z=4400.000), Max=(X=7132.369 Y=-2562.887 Z=4600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:6D856C074C2554F3066927AE3D8208BA BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1536893592 Label:BP_ZombieMilitary19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7109.506 Y=2212.546 Z=4198.835), Max=(X=7208.821 Y=2302.897 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:717E1A5E438BEA5D95E344B235488AF8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1922849229 Label:SuperGrid_CylinderFull8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6745.276 Y=-100.412 Z=4200.000), Max=(X=6845.276 Y=-0.412 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:77E8F2874CD2C4848D64678B75C94381 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1965962239 Label:SuperGrid_CylinderFull18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7443.282 Y=438.049 Z=4200.000), Max=(X=7543.282 Y=538.049 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:783763094AC3A91184307C89000BECC3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F2EF01_1984221140 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1637675.000), Max=(X=1638400.000 Y=1638400.000 Z=1639125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:790C61664925C96E9A4B548428E3C8C1 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_4CD71793428D6C0102_1315048565 Label:PointLight4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-9445.587 Y=-16395.772 Z=-10851.207), Max=(X=23322.413 Y=16372.228 Z=21916.793) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:79E155A644CD3EE4C0B90D9C84D2FAAF BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1501417579 Label:BP_ZombieMilitary6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4623.984 Y=2286.236 Z=4198.835), Max=(X=4723.299 Y=2376.587 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 41]
+ |   |   |   |- Guid:7A4895A84CFEAA51234017BCF4604302 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F2EF01_2013436142 Label:SuperGrid_Box2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3264.289 Y=-3123.663 Z=4098.835), Max=(X=14064.289 Y=2651.338 Z=4198.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 42]
+ |   |   |   |- Guid:7E0350CC4A011E9E4793C3B9AD2FE49D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F5EF01_1651034685 Label:SuperGrid_Box5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10094.001 Y=1797.262 Z=4200.000), Max=(X=10694.001 Y=1897.262 Z=4300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 43]
+ |   |   |   |- Guid:8068F8804EC50E11797B079F7A53585B BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1493184575 Label:BP_ZombieMilitary2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4041.881 Y=1567.893 Z=4198.835), Max=(X=4141.196 Y=1658.245 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 44]
+ |   |   |   |- Guid:81805F31468284CE80CC00801F6FB1C6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F18EE401_1395940921 Label:CubeGridToolOutput2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5500.000 Y=-13600.000 Z=0.000), Max=(X=200.000 Y=-3000.000 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Adams blockout FolderGuid:CD952FDA41A21551B64DF5BBBD0C85D9
+ |   |   |- [+] [ 45]
+ |   |   |   |- Guid:825F010543E40D0F046DB291954743DF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1971547241 Label:SuperGrid_CylinderFull20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10062.272 Y=397.125 Z=4200.000), Max=(X=10162.272 Y=497.125 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 46]
+ |   |   |   |- Guid:82E7419940A3BC9CFFA4F8B523B2B7A8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1956218236 Label:SuperGrid_CylinderFull15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8378.806 Y=-2328.560 Z=4200.000), Max=(X=8478.806 Y=-2228.560 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 47]
+ |   |   |   |- Guid:85FAC462486A69A4B7EBA78469650710 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1529254588 Label:BP_ZombieMilitary15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7113.696 Y=3211.511 Z=4198.835), Max=(X=7213.011 Y=3301.862 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 48]
+ |   |   |   |- Guid:86392FED4F4DD57D1ABABF9D0BA2C68F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_4CD71793428D6B0102_2104271384 Label:SM_MERGED_BP_SplineWall_C_UAID_00FF697D6523F4EF01_2113572501 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3477.474 Y=-3131.397 Z=4186.573), Max=(X=14020.628 Y=2588.602 Z=5786.573) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 49]
+ |   |   |   |- Guid:86AAC3D347C119F194374C9B008DE671 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D652326F301_1363483458 Label:SuperGrid_Box14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7932.369 Y=-687.887 Z=5475.288), Max=(X=7957.369 Y=12.113 Z=5675.288) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 50]
+ |   |   |   |- Guid:86F0AD1B43E4F62EEE3A708FD801CD97 BaseClass:/Game/Blueprints/BP_Brute.BP_Brute_C NativeClass:/Script/Engine.Character Name:BP_Brute_C_UAID_4CD71793428D6C0102_1466105571 Label:BP_Brute3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6676.231 Y=3751.343 Z=4175.133), Max=(X=6914.719 Y=4071.138 Z=4585.987) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 51]
+ |   |   |   |- Guid:883D7F8D4C6D1CB8A2651285B2F9A5AA BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1510061583 Label:BP_ZombieMilitary10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3927.904 Y=3192.074 Z=4198.835), Max=(X=4027.219 Y=3282.425 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 52]
+ |   |   |   |- Guid:8B1472AA4740A0D68739E5BAAFF3B54E BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1526951587 Label:BP_ZombieMilitary14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7114.070 Y=3300.787 Z=4198.835), Max=(X=7213.385 Y=3391.138 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 53]
+ |   |   |   |- Guid:8E31A2A54FA750FB741CEC88885A9B5C BaseClass:/Game/Blueprints/BP_Pickup_rifle1.BP_Pickup_rifle1_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_rifle1_C_UAID_4CD71793428D6C0102_1602787605 Label:BP_Pickup_rifle2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8529.174 Y=-1106.222 Z=4164.942), Max=(X=8657.174 Y=-978.222 Z=4292.942) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 54]
+ |   |   |   |- Guid:8EBDE0174D28AFEB57FBB0BD827023CD BaseClass:/Game/Blueprints/BP_Brute.BP_Brute_C NativeClass:/Script/Engine.Character Name:BP_Brute_C_UAID_4CD71793428D6C0102_1461070570 Label:BP_Brute2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3992.707 Y=3749.978 Z=4175.133), Max=(X=4231.195 Y=4069.773 Z=4585.987) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 55]
+ |   |   |   |- Guid:935A76A34CBA8A2111E227ABB0747079 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D65239CEF01_1320342999 Label:SuperGrid_Box SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7000.000 Y=8300.000 Z=15300.000), Max=(X=-6900.000 Y=8400.000 Z=15400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 56]
+ |   |   |   |- Guid:962D6BE34E7839A2A94E65B8F6CE5D43 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3560.000 Y=-341.022 Z=4196.831), Max=(X=3640.000 Y=-261.022 Z=4380.831) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 57]
+ |   |   |   |- Guid:96D4B49841A0689C81240B99700A42B4 BaseClass:/Game/Blueprints/BP_Pickup_Pistol.BP_Pickup_Pistol_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_Pistol_C_UAID_4CD71793428D6C0102_1568920600 Label:BP_Pickup_Pistol SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3884.188 Y=-620.114 Z=4212.647), Max=(X=3948.188 Y=-556.114 Z=4276.647) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 58]
+ |   |   |   |- Guid:986E166A412B2C9C48A53CA2864A0071 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1542399218 Label:SuperGrid_Box8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7932.369 Y=-687.887 Z=4700.000), Max=(X=7957.369 Y=12.113 Z=4900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 59]
+ |   |   |   |- Guid:9BF074BF4A20BD2891CB9FA814D93DE5 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1545910596 Label:BP_ZombieMilitary23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7105.600 Y=1281.054 Z=4198.835), Max=(X=7204.915 Y=1371.405 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 60]
+ |   |   |   |- Guid:9CC3A43840EEC99F0C43C6B8FD553B53 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_4CD71793428D6C0102-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 61]
+ |   |   |   |- Guid:9D1D0A1841FADCD1AA1DF28B3573B1BC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F5EF01_1654911686 Label:SuperGrid_Box6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6366.194 Y=1789.505 Z=4200.000), Max=(X=6966.194 Y=1889.505 Z=4300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 62]
+ |   |   |   |- Guid:9D60701D441FAC78CB6CD085EF683F34 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F5EF01_1158487679 Label:WallDoor2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13990.000 Y=-400.000 Z=4200.000), Max=(X=14010.000 Y=0.000 Z=4600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 63]
+ |   |   |   |- Guid:A0A5E45B4D3293CC79F6C9B83EDC659E BaseClass:/Game/Tools/BP_SplineWall.BP_SplineWall_C NativeClass:/Script/Engine.Actor Name:BP_SplineWall_C_UAID_00FF697D652326F301_1110509455 Label:BP_SplineWall3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3480.000 Y=-3110.000 Z=5000.000), Max=(X=14020.000 Y=2610.000 Z=5900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 64]
+ |   |   |   |- Guid:A0B040C24CF9AFF67CE1A5A027AF2ED4 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1530366589 Label:BP_ZombieMilitary16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7113.270 Y=3109.937 Z=4198.835), Max=(X=7212.585 Y=3200.289 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 65]
+ |   |   |   |- Guid:A51740D9403719CB0F9C879D4E3DECE8 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_4CD71793428D6C0102_1306088564 Label:PointLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4242.214 Y=-16395.772 Z=-10851.207), Max=(X=28525.786 Y=16372.228 Z=21916.793) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 66]
+ |   |   |   |- Guid:A5452F3445CF36A44D444E81539E5BAC BaseClass:/Game/Blueprints/BP_Pickup_Pistol.BP_Pickup_Pistol_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_Pistol_C_UAID_4CD71793428D6C0102_1608889606 Label:BP_Pickup_Pistol3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11844.965 Y=-704.174 Z=4218.740), Max=(X=11908.965 Y=-640.174 Z=4282.740) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 67]
+ |   |   |   |- Guid:A955565141C7CFDD11C3F1B891A1DE48 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1981973245 Label:SuperGrid_CylinderFull24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10399.598 Y=-495.310 Z=4200.000), Max=(X=10499.598 Y=-395.310 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 68]
+ |   |   |   |- Guid:AB3A68A641440293E8A3878CD9320C94 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F5EF01_1622383684 Label:SuperGrid_Box4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10257.369 Y=-2387.887 Z=4200.000), Max=(X=10857.369 Y=-2287.887 Z=4300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 69]
+ |   |   |   |- Guid:AF9F1E2742462A271D3F2C90B09EABEB BaseClass:/Game/Blueprints/BP_Pickup_Pistol.BP_Pickup_Pistol_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_Pistol_C_UAID_4CD71793428D6C0102_1588668603 Label:BP_Pickup_Pistol2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8577.067 Y=361.043 Z=4193.154), Max=(X=8641.067 Y=425.043 Z=4257.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 70]
+ |   |   |   |- Guid:B0D328D3472F0515112EEC9DCBFE542C BaseClass:/Game/Blueprints/BP_Brute.BP_Brute_C NativeClass:/Script/Engine.Character Name:BP_Brute_C_UAID_4CD71793428D6C0102_1469278573 Label:BP_Brute5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3364.726 Y=2637.726 Z=4175.133), Max=(X=3603.215 Y=2957.521 Z=4585.987) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 71]
+ |   |   |   |- Guid:B16BD2D34266E3A367B392B159B3C8EB BaseClass:/Game/Blueprints/BP_Pickup_Shotgun.BP_Pickup_Shotgun_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_Shotgun_C_UAID_4CD71793428D6C0102_1593622604 Label:BP_Pickup_Shotgun2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8475.239 Y=-383.705 Z=4173.968), Max=(X=8635.239 Y=-198.894 Z=4333.968) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 72]
+ |   |   |   |- Guid:B2548B9E4FB8A050F17DD0BE0170D277 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_00FF697D6523F2EF01_1984222141 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=3270.000), Max=(X=200.000 Y=200.000 Z=3470.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 73]
+ |   |   |   |- Guid:B7EEE5544D95C881D7BC73965BB2EF6F BaseClass:/Game/Blueprints/BP_Pickup_rifle1.BP_Pickup_rifle1_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_rifle1_C_UAID_4CD71793428D6C0102_1576465601 Label:BP_Pickup_rifle1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3871.300 Y=-483.272 Z=4191.820), Max=(X=3999.300 Y=-355.272 Z=4319.820) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 74]
+ |   |   |   |- Guid:BFA06A004A47D19EC3A735B3FF09BBB9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F5EF01_1601823683 Label:SuperGrid_Box3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6500.200 Y=-2387.887 Z=4200.000), Max=(X=7100.200 Y=-2287.887 Z=4300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 75]
+ |   |   |   |- Guid:C491D7634E649A36AA27C5B1AEA8BB19 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F5EF01_1113541678 Label:WallDoor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3490.000 Y=-500.000 Z=4200.000), Max=(X=3510.000 Y=-100.000 Z=4600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 76]
+ |   |   |   |- Guid:C58A182745051B65CF8ECF9A298851FE BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_00FF697D6523F2EF01_1984220139 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=3890.000), Max=(X=0.000 Y=0.000 Z=3890.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 77]
+ |   |   |   |- Guid:C5A34C304D89BA415502DEB200507254 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F5EF01_1240814680 Label:SuperGrid_CylinderFull SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8375.000 Y=-925.000 Z=4200.000), Max=(X=8825.000 Y=-475.000 Z=4550.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 78]
+ |   |   |   |- Guid:C6BB4F64491379211141D398B93C3E4A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F18FE401_1194315099 Label:CubeGridToolOutput4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5400.000 Y=-13200.000 Z=-0.000), Max=(X=16900.000 Y=2400.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Adams blockout FolderGuid:CD952FDA41A21551B64DF5BBBD0C85D9
+ |   |   |- [+] [ 79]
+ |   |   |   |- Guid:CA3B303540A8E64386C959812A86444A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D652326F301_1361556457 Label:SuperGrid_Box13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7932.369 Y=-687.887 Z=5076.022), Max=(X=7957.369 Y=12.113 Z=5276.022) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 80]
+ |   |   |   |- Guid:CC0F9EE545C948280925BE9915737DF2 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1505664582 Label:BP_ZombieMilitary9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3927.392 Y=3070.047 Z=4198.835), Max=(X=4026.707 Y=3160.398 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 81]
+ |   |   |   |- Guid:CCA97ED744215B17F7A250B5D173277F BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1535617591 Label:BP_ZombieMilitary18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7109.944 Y=2317.053 Z=4198.835), Max=(X=7209.259 Y=2407.404 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 82]
+ |   |   |   |- Guid:CD82187342DB9233030029A17099746C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_00FF697D6523F2EF01_1984218137 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 83]
+ |   |   |   |- Guid:D17D40D04FDC1BF75C48DE8D8156ADE2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1770867222 Label:SuperGrid_Box11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6257.369 Y=2058.289 Z=4400.000), Max=(X=6932.369 Y=2083.289 Z=4600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 84]
+ |   |   |   |- Guid:DBB50147431B5A5A75F2D5B78E32479C BaseClass:/Game/Blueprints/BP_Pickup_Shotgun.BP_Pickup_Shotgun_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_Shotgun_C_UAID_4CD71793428D6C0102_1580423602 Label:BP_Pickup_Shotgun SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3811.612 Y=-247.869 Z=4170.467), Max=(X=3971.612 Y=-63.058 Z=4330.467) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 85]
+ |   |   |   |- Guid:DD46C2754109D2F5A079949F7389B88B BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1514411586 Label:BP_ZombieMilitary13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7114.527 Y=3409.690 Z=4198.835), Max=(X=7213.842 Y=3500.042 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 86]
+ |   |   |   |- Guid:DDC15DF94D7648FD91221B82060A1078 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1532054590 Label:BP_ZombieMilitary17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7110.304 Y=2402.730 Z=4198.835), Max=(X=7209.619 Y=2493.082 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 87]
+ |   |   |   |- Guid:E331FFCD427503E2A63A7E8223776705 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D652326F301_1366892459 Label:SuperGrid_Box15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9243.936 Y=-687.887 Z=5053.788), Max=(X=9268.936 Y=12.113 Z=5253.788) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 88]
+ |   |   |   |- Guid:E4BAC2504415F669159AF890B13E67B4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CF8C1F18EE401_1547730922 Label:CubeGridToolOutput3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5700.000 Y=-14400.000 Z=-0.000), Max=(X=17300.000 Y=3700.000 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Adams blockout FolderGuid:CD952FDA41A21551B64DF5BBBD0C85D9
+ |   |   |- [+] [ 89]
+ |   |   |   |- Guid:E52978314BF7F40F6A816C880BADBE63 BaseClass:/Game/Blueprints/BP_Pickup_rifle1.BP_Pickup_rifle1_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_rifle1_C_UAID_4CD71793428D6C0102_1610961607 Label:BP_Pickup_rifle3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12118.102 Y=-727.722 Z=4201.885), Max=(X=12246.102 Y=-599.722 Z=4329.885) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 90]
+ |   |   |   |- Guid:E6C48D3C468FBC19394111AD6D821167 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1992105248 Label:SuperGrid_CylinderFull27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9950.000 Y=-1861.905 Z=4200.000), Max=(X=10050.000 Y=-1761.905 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 91]
+ |   |   |   |- Guid:E7630631432D148A806F34AC88A02B14 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_4CD71793428D6C0102_1668973610 Label:Box3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13994.423 Y=-310.951 Z=4172.348), Max=(X=14205.072 Y=-100.301 Z=4669.979) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 92]
+ |   |   |   |- Guid:E770F32C417E94CE217C9D8462036EFC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1581709219 Label:SuperGrid_Box9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9243.936 Y=-687.887 Z=4700.000), Max=(X=9268.936 Y=12.113 Z=4900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 93]
+ |   |   |   |- Guid:EDCD40564EA2C3CDEEC46EAAF091DE3C BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1495688577 Label:BP_ZombieMilitary4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4041.483 Y=1473.051 Z=4198.835), Max=(X=4140.798 Y=1563.403 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 94]
+ |   |   |   |- Guid:EF83D7574D24E0D31ADCF5B6CA06E357 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1925264230 Label:SuperGrid_CylinderFull9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7024.327 Y=-850.000 Z=4200.000), Max=(X=7124.327 Y=-750.000 Z=4350.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 95]
+ |   |   |   |- Guid:EFA179F34513CC773DDADE83156B842F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_4CD71793428D6C0102_1648398609 Label:Box2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3294.041 Y=-415.899 Z=4172.349), Max=(X=3504.690 Y=-205.250 Z=4669.979) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 96]
+ |   |   |   |- Guid:F177201C43E76F592C4E8490B80FDEC7 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1537821593 Label:BP_ZombieMilitary20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7109.057 Y=2105.471 Z=4198.835), Max=(X=7208.372 Y=2195.822 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 97]
+ |   |   |   |- Guid:F4285FFF4ACAEADADB52439E1CE675B2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F5EF01_1580560682 Label:SuperGrid_CylinderFull3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8375.000 Y=-125.000 Z=4200.000), Max=(X=8825.000 Y=325.000 Z=4550.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 98]
+ |   |   |   |- Guid:F4377D964E6F917E7A780599873B802E BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1539117594 Label:BP_ZombieMilitary21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7109.057 Y=2105.471 Z=4198.835), Max=(X=7208.372 Y=2195.822 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 99]
+ |   |   |   |- Guid:F441106E4CA307C0D549F8A4AE9633BE BaseClass:/Game/Tools/BP_SplineWall.BP_SplineWall_C NativeClass:/Script/Engine.Actor Name:BP_SplineWall_C_UAID_00FF697D6523F4EF01_2113572501 Label:BP_SplineWall2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3476.846 Y=-120.000 Z=4200.000), Max=(X=14016.846 Y=2610.000 Z=5000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [100]
+ |   |   |   |- Guid:F7D4DD5B4C52DB34BDD8F2A7AF91B43C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00FF697D6523F8EF01_1465965216 Label:WallSegment SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3486.846 Y=-500.000 Z=4600.000), Max=(X=3506.846 Y=-100.000 Z=5000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [101]
+ |   |   |   |- Guid:F99C55FC4ED079C628A10793B123C083 BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1504222581 Label:BP_ZombieMilitary8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4625.248 Y=2587.535 Z=4198.835), Max=(X=4724.563 Y=2677.887 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [102]
+ |   |   |   |- Guid:FDFC489D4973421A2A23328B36D90FDB BaseClass:/Game/Blueprints/BP_ZombieMilitary.BP_ZombieMilitary_C NativeClass:/Script/Engine.Character Name:BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1544630595 Label:BP_ZombieMilitary22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7106.108 Y=1402.249 Z=4198.835), Max=(X=7205.423 Y=1492.601 Z=4374.835) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [103]
+ |   |   |   |- Guid:FEDB2A5C4188A2E14893728ED1B40348 BaseClass:/Game/Tools/BP_SplineWall.BP_SplineWall_C NativeClass:/Script/Engine.Actor Name:BP_SplineWall_C_UAID_00FF697D6523F3EF01_1666940324 Label:BP_SplineWall SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3476.846 Y=-3110.000 Z=4200.000), Max=(X=14016.846 Y=-380.000 Z=5000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [104]
+ |   |   |   |- Guid:FFDC4E3C4AB47209BFDE5E9460678726 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_4CD71793428D6C0102_1215217561 Label:Box SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=51.436 Y=-6721.658 Z=5819.608), Max=(X=15594.030 Y=8820.935 Z=5934.148) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-11807.123 Y=-18075.216 Z=-10851.207), Max=(X=28525.786 Y=17719.694 Z=21916.793)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Maps/Map_Reactor
+----------------------------------------------------------------------------------------------------------------
+Map_Reactor - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Map_Reactor Persistent Level
+ |- Always loaded Actor Count: 114 
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Maps/Map_Reactor
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.AmbientSound_UAID_047C1641A23646FF01_1831936763
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/E/4P/WTTYI8E42N4HRX5OPVZNCT
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Brute_C_UAID_4CD71793428D6C0102_1354831567
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/C6/2ZULL2DDG0I27FDPC7CTFZ
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Brute_C_UAID_4CD71793428D6C0102_1461070570
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/TU/365IOYK4WQV87FZ48PPBA8
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Brute_C_UAID_4CD71793428D6C0102_1466105571
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/D/GW/41TYCG1O0Z3VIR49MG1ZR5
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Brute_C_UAID_4CD71793428D6C0102_1467422572
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/4/9P/4OTAFHIVB5VWFGH7LI1JYQ
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Brute_C_UAID_4CD71793428D6C0102_1469278573
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/E/QC/2M8ZEWTXJ2YP16KUFWZPWW
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Pickup_Pistol_C_UAID_4CD71793428D6C0102_1568920600
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/9/00/33R39W045CT9XO2PJ7VN8T
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Pickup_Pistol_C_UAID_4CD71793428D6C0102_1588668603
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/4/BO/JO0YDZBAMTND76CFU4RA92
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Pickup_Pistol_C_UAID_4CD71793428D6C0102_1608889606
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/3/5D/RKWYRPSMB9C09US77NBPLB
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Pickup_rifle1_C_UAID_4CD71793428D6C0102_1576465601
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/9/UY/QNJIEAA1TG7YQ6Z4CV2S4A
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Pickup_rifle1_C_UAID_4CD71793428D6C0102_1602787605
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/3/RN/27XHOQ1QRZTC2KI3NUD5DI
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Pickup_rifle1_C_UAID_4CD71793428D6C0102_1610961607
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/6/ET/HHAAWK8J44S51TZUX7Q8N7
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Pickup_Shotgun_C_UAID_4CD71793428D6C0102_1580423602
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/4/7M/G034FP0TNUSBXIQ4GWWCR1
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Pickup_Shotgun_C_UAID_4CD71793428D6C0102_1593622604
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/4/KJ/J78MVJ2GSZD44F6HYDNB1V
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Pickup_Shotgun_C_UAID_4CD71793428D6C0102_1614114608
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/8/VM/1FOUZHKBB4L6E0QCA63CAS
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_SplineWall_C_UAID_00FF697D652326F301_1110509455
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/ZS/88HMDE19VG92AI4PB15PS4
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_SplineWall_C_UAID_00FF697D6523F3EF01_1666940324
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/D/41/0E14N7B5C79WKJUJ2CLMX6
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_SplineWall_C_UAID_00FF697D6523F4EF01_2113572501
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/8/KO/ZCOD7INXPE0J753CJ7ZFMF
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1485660574
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/5W/A80XY3JZTZLVXQ7FH8ZCTK
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1493184575
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/D/19/KPJJCI6TPIRZEB0TE3MSD2
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1494472576
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/J4/00SI7G918BTFV18WUANT9I
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1495688577
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/0/DH/UYI3DUL36C6KTXCZBGJFCG
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1497200578
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/E/7F/MX22I4B15HOBI9GS8PKE45
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1501417579
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/8/2T/78QLC3VF993ZYSAIZ106XD
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1502958580
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/3/4M/NRBARKQ50AJK4LXGV2PH9Q
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1504222581
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/0/B9/CLB3B6I894OUBGHGBA7VWT
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1505664582
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/1/2E/Y0YKD4O1TAPKOBKYZE37LI
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1510061583
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/7/DN/V1OMXMKDB2KYN9973B1FAO
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1511899584
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/E/Z1/UN4CS7U12767WN5KQ1WBBZ
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1512763585
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/4/LO/LIDLBFWJPPB3J7R5SSVVJS
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1514411586
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/F/43/737JIWVMFU94UEINKALPEK
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1526951587
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/AK/3OCT4D29X5DXBM5KTBC510
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1529254588
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/IC/NRET61P6ARS7Y31BOWB5PN
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1530366589
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/MA/GG3AKGO8LYAS7T6CUUI86J
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1532054590
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/YD/6C8CGQVL4QAND9LD3QXBQK
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1535617591
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/D/HM/RG0VDG28C6I90UA0N628CV
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1536893592
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/3/7H/GAFR4ZTV3E8N0JGYVYU44M
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1537821593
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/2/AX/8XTUGW73AUS68866VW3Z82
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1539117594
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/7/QY/T6BL6YY2ONHCXKCN9TECVH
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1544630595
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/7/EI/OT36UJTWRKLYFB7GIQ2U0B
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1545910596
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/6/8R/VCGEYUS8Y1JC33Z6W4LUS1
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1546778597
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/B/I9/4HOYWFYJ6L2EGYBUDM0E2I
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1548138598
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/AN/OOVOI2LEBVX1BL86YIOH7J
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1549192599
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/9G/MTUR7MXPQGVJ8MD184SX74
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Maps/Map_Reactor
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BuoyancyManager_0
+ |- Actor Package: /Game/Maps/Map_Reactor
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Maps/Map_Reactor
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.DirectionalLight_UAID_00FF697D6523F2EF01_1984218137
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/7/GX/GPOT5Z1BBHW3UJJP1OA7KJ
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.ExponentialHeightFog_UAID_00FF697D6523F2EF01_1984215135
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/D/VS/ZX8XIWBVI9RDSBK0QL6X8I
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Maps/Map_Reactor
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.Map_Reactor_C_0
+ |- Actor Package: /Game/Maps/Map_Reactor
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.NavMeshBoundsVolume_UAID_4CD71793428D6C0102_1389546568
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/41/SEMRG3GNO5C0S002D1YOIY
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.NODE_AddChildActorComponent-0_GS_Roof_C_CAT_UAID_00FF697D652326F301_1465719461
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/ZS/88HMDE19VG92AI4PB15PS4
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.PlayerStart_UAID_F02F74551BF5599B01_1153002503
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/8/VR/082NHY1OEN6YUNHN5LVK3O
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.PointLight_UAID_4CD71793428D6C0102_1277940562
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/2/H1/D889C557IM5EHAGJX2Z7QK
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.PointLight_UAID_4CD71793428D6C0102_1301756563
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/3S/UTMIUES9RLONX5VK4EUMA3
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.PointLight_UAID_4CD71793428D6C0102_1306088564
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/3/08/RXGUNSS93A8JBX94KTPN60
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.PointLight_UAID_4CD71793428D6C0102_1315048565
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/7/DU/9XACJH0GO86A6Q9JZOXQU6
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.PointLight_UAID_4CD71793428D6C0102_1320645566
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/E/2L/KS2IKB31RHNIA82GI6DNPN
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.PostProcessVolume_UAID_00FF697D6523F2EF01_1984222141
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/9/2I/T6E83TRVUDRKKXV9PKYIPL
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.RecastNavMesh_UAID_4CD71793428D6C0102-Default
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/B/YW/HTBC2IBIDBTRZM8W4SYP1S
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.SkyAtmosphere_UAID_00FF697D6523F2EF01_1984220139
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/7V/PBS3K8DE8NNY1634LTKFU1
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.SkyLight_UAID_00FF697D6523F2EF01_1984219138
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/7/71/WA6IVL6VMJRB61M1JJ2DOJ
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D652326F301_1361556457
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/7/9A/HD4H6KG16ON1APH0NVUSWS
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D652326F301_1363483458
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/3/19/H6NHYYQD4Z2EANJS1JTRZH
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D652326F301_1366892459
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/6/RO/KF0A58W8MIHTBLEI7JXCPV
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D652326F301_1368906460
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/0/W3/5IPZE2EUGTJQQQYS1Y3NWN
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D65239CEF01_1320342999
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/F/2N/IYPDKLBAIPQ3K94SNYTGGT
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F2EF01_1984221140
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/D/CH/7Q19Y0QSK5TZK6VEKRA7YF
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F2EF01_2013436142
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/XS/SG594RACY59857A21ZFI14
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F5EF01_1113541678
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/MY/RQRHGWRFRJ4SF7DS647M5S
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F5EF01_1158487679
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/X1/P1W4MHJMYY8VVFZZ9DT0ZM
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F5EF01_1240814680
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/9/VG/QGCIKNJBMXR1YHT0BMX3CM
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F5EF01_1535512681
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/9/CZ/WEHJ6OF812IC12MZALRSV9
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F5EF01_1580560682
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/D/8F/YQE4FXG68EG4FZNMILC9YO
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F5EF01_1601823683
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/F/1A/UVM7AXU9J8Q2REE9B8HW1D
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F5EF01_1622383684
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/7/9U/ZXG2CDVR7QBUX6WUJ2BQ9H
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F5EF01_1651034685
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/E/RG/D2QRWD9WYSNKDQ8XMZAGZM
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F5EF01_1654911686
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/1T/WHAUBFI9NPBIZ6MZ0RSJX5
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1465965216
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/B7/2F6QA5ZEWDO0J4HR6BDHQG
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1493506217
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/YK/QOV9E8ICFJDU91Z5OT3KZD
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1542399218
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/MW/0KRH9N4BN7LF4H0FLF6QR2
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1581709219
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/B/2M/36S8BBI9W27BQ4V2J107CP
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1597778220
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/0/WI/A20NTGSNX9D1YP8TKPG6QF
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1735636221
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/6/QQ/LPJGIVWKSNMAQC8I4TFG8K
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1770867222
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/A/E4/4L4UY7R02U96M3GWVP73S6
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1820584224
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/4/JZ/ECGH9G5RQAN6C0UEAEPL82
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1873111225
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/2D/UVTU146WYQ82IQKYTOA5U0
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1903714226
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/E/B7/R3A68HQDCWMRPTIK2QLCQV
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1922849229
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/8/YA/LV3QNLWU9VMBWNBJP51IDU
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1925264230
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/A/K5/Y1000VH88N60TMQRPQEEIC
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1948245233
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/A/K8/BKORPWYLUW2M9C643PFY96
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1956218236
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/E/DL/MBFACXPZHTDMISE1SKM8ST
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1963232238
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/ZJ/12I6GRA2ZOT71ZMM7PX6PU
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1965962239
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/IY/NDO5433A0M334VIB41XI3G
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1971547241
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/7/B0/NBPUZ32YTFH4QFVBDQICHZ
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1981973245
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/EX/PB2BE9XCFR9MVCAS4BHVW5
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1992105248
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/D/WV/84IWH21P2XAAGN13VSR57Z
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_4CD71793428D6B0102_2104271384
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/2/VA/FXOX6Q855ZN6NK8AKO7OPG
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_4CD71793428D6C0102_1215217561
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/0/U9/MX4FALFW03XT2I1D8VFPHO
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_4CD71793428D6C0102_1648398609
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/6/9Q/LWX1AGQKK88GKOSKNF0GM1
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_4CD71793428D6C0102_1668973610
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/7/OC/5N8MYAF6AGXSOVX9IYXKO2
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F18CE401_1940295567
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/3/2W/SC539EKAHSZYGP9WDK3L6I
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F18EE401_1395940921
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/9/TU/JP1EQV7RZ9AZBWQFJD2LAV
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F18EE401_1547730922
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/B/YA/BCU471D0U9OWG0TPDS08OI
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F18FE401_1194315099
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/D/MO/BY1WHDUD9JULCLMOA2V9AH
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F190E401_1525360278
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/1/08/JXDVP545LV9H92JMNNACTN
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F190E401_1776545279
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/A/JH/CDPXBZZG5JFPPF6RFU290N
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.TriggerBox_UAID_047C1641A2364E0002_1565759236
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/D/KS/2ZFHQA3CZNP391GTRBKWNS
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.VolumetricCloud_UAID_00FF697D6523F2EF01_1984216136
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/9/QP/VERFCTOTD7JIC6FIU3C78O
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/8/KA/PQFC56Y6L9FVIJQ47G7Z48
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+ |- Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/E/3G/6GS74GCDS9V3496UL48G1J
+ |- Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/Maps/Map_Reactor
+
+----------------------------------------------------------------------------------------------------------------
+Map_Reactor - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=-11807.123 Y=-18075.216 Z=-10851.207), Max=(X=28525.786 Y=17719.694 Z=21916.793)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 3
+ |- Level  0: Cell Count    2 | Cell Size   25600 | Actor Count   88 (97.8%)
+ |- Level  1: Cell Count    1 | Cell Size   51200 | Actor Count    2 (2.2%)
+ |- Level  2: Cell Count    0 | Cell Size  102400 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell Map_Reactor_MainGrid_L0_X1_Y0 (6T7D7J0X2NUENCQSDUA3B77Q1)
+ |   |- Actor Count: 3
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1597778220
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/0/WI/A20NTGSNX9D1YP8TKPG6QF
+ |   |- Actor Instance Guid: 5BEF72A84E4DC06717D839840B1458DD
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F5EF01_1158487679
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/X1/P1W4MHJMYY8VVFZZ9DT0ZM
+ |   |- Actor Instance Guid: 9D60701D441FAC78CB6CD085EF683F34
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_4CD71793428D6C0102_1668973610
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/7/OC/5N8MYAF6AGXSOVX9IYXKO2
+ |   |- Actor Instance Guid: E7630631432D148A806F34AC88A02B14
+ |- [+] Content of Cell Map_Reactor_MainGrid_L0_X0_Y0 (EMBMMDOJDAIU5IEK6HA83K1IM)
+ |   |- Actor Count: 85
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1546778597
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/B/I9/4HOYWFYJ6L2EGYBUDM0E2I
+ |   |- Actor Instance Guid: 00D1938249B5DD6EDE3885B30DFEBB2D
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Pickup_Shotgun_C_UAID_4CD71793428D6C0102_1614114608
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/8/VM/1FOUZHKBB4L6E0QCA63CAS
+ |   |- Actor Instance Guid: 0B1075634769C087D69FA0867984C04B
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1502958580
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/3/4M/NRBARKQ50AJK4LXGV2PH9Q
+ |   |- Actor Instance Guid: 0EFC3ECE474333B4FBBB1E9E8D7BAAE0
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1735636221
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/6/QQ/LPJGIVWKSNMAQC8I4TFG8K
+ |   |- Actor Instance Guid: 14137FD542CBFF94679186AE3951456D
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F190E401_1776545279
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/A/JH/CDPXBZZG5JFPPF6RFU290N
+ |   |- Actor Instance Guid: 161F0C1E4E27293CEA9CE0B03191AE80
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.AmbientSound_UAID_047C1641A23646FF01_1831936763
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/E/4P/WTTYI8E42N4HRX5OPVZNCT
+ |   |- Actor Instance Guid: 1A6A37AA4DFE5CC4741E408EACB51C7E
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1903714226
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/E/B7/R3A68HQDCWMRPTIK2QLCQV
+ |   |- Actor Instance Guid: 1B3674E94EE580DCEC701296A63523F6
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1820584224
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/4/JZ/ECGH9G5RQAN6C0UEAEPL82
+ |   |- Actor Instance Guid: 1CBB3DE2429D57A9231BEFBACFDF6DD2
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D652326F301_1368906460
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/0/W3/5IPZE2EUGTJQQQYS1Y3NWN
+ |   |- Actor Instance Guid: 202B84AE4772C4FC1D6F6EB28D011531
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1497200578
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/E/7F/MX22I4B15HOBI9GS8PKE45
+ |   |- Actor Instance Guid: 24FE1559439440E13A5EAF82B3F96D74
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Brute_C_UAID_4CD71793428D6C0102_1467422572
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/4/9P/4OTAFHIVB5VWFGH7LI1JYQ
+ |   |- Actor Instance Guid: 2DA02FE443FECE5344556A8B248E4342
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F190E401_1525360278
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/1/08/JXDVP545LV9H92JMNNACTN
+ |   |- Actor Instance Guid: 2EBA5D1B4C8A9AC945F51FBBA0642DBA
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1512763585
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/4/LO/LIDLBFWJPPB3J7R5SSVVJS
+ |   |- Actor Instance Guid: 2ED90CB0433501B1B060E8B6ACB3333D
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1548138598
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/AN/OOVOI2LEBVX1BL86YIOH7J
+ |   |- Actor Instance Guid: 322A989A477488306872F0B6C006E162
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1948245233
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/A/K8/BKORPWYLUW2M9C643PFY96
+ |   |- Actor Instance Guid: 3465DECC4566DFC4A5C1A1B0ED0D02A2
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1494472576
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/J4/00SI7G918BTFV18WUANT9I
+ |   |- Actor Instance Guid: 356C45054D5284A8AC9F35AA3661B7B5
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1485660574
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/5W/A80XY3JZTZLVXQ7FH8ZCTK
+ |   |- Actor Instance Guid: 381BF9234A75D0152D9CFAAD838918D2
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F18CE401_1940295567
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/3/2W/SC539EKAHSZYGP9WDK3L6I
+ |   |- Actor Instance Guid: 396D762C431C713CDE7707AABB38A8F5
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F5EF01_1535512681
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/9/CZ/WEHJ6OF812IC12MZALRSV9
+ |   |- Actor Instance Guid: 464A5A2647A53609945540AC9F6AA04E
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1873111225
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/2D/UVTU146WYQ82IQKYTOA5U0
+ |   |- Actor Instance Guid: 468B2E8D45F522BBA60A2D9C8C0F48F0
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1963232238
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/ZJ/12I6GRA2ZOT71ZMM7PX6PU
+ |   |- Actor Instance Guid: 4F8598A04E0E400EE4AFC8BE86F2CC2E
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1511899584
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/E/Z1/UN4CS7U12767WN5KQ1WBBZ
+ |   |- Actor Instance Guid: 52368A8048EAEA70855A4593623E6F50
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1549192599
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/9G/MTUR7MXPQGVJ8MD184SX74
+ |   |- Actor Instance Guid: 55C867784A64E8F5EEBD5298A64E7D9C
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Brute_C_UAID_4CD71793428D6C0102_1354831567
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/C6/2ZULL2DDG0I27FDPC7CTFZ
+ |   |- Actor Instance Guid: 64C337CF46868183F93899806FA86EDE
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1493506217
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/YK/QOV9E8ICFJDU91Z5OT3KZD
+ |   |- Actor Instance Guid: 650289BE456875F34C1AEB974CFE927F
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1536893592
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/3/7H/GAFR4ZTV3E8N0JGYVYU44M
+ |   |- Actor Instance Guid: 6D856C074C2554F3066927AE3D8208BA
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1922849229
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/8/YA/LV3QNLWU9VMBWNBJP51IDU
+ |   |- Actor Instance Guid: 717E1A5E438BEA5D95E344B235488AF8
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1965962239
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/IY/NDO5433A0M334VIB41XI3G
+ |   |- Actor Instance Guid: 77E8F2874CD2C4848D64678B75C94381
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1501417579
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/8/2T/78QLC3VF993ZYSAIZ106XD
+ |   |- Actor Instance Guid: 79E155A644CD3EE4C0B90D9C84D2FAAF
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F2EF01_2013436142
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/XS/SG594RACY59857A21ZFI14
+ |   |- Actor Instance Guid: 7A4895A84CFEAA51234017BCF4604302
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F5EF01_1651034685
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/E/RG/D2QRWD9WYSNKDQ8XMZAGZM
+ |   |- Actor Instance Guid: 7E0350CC4A011E9E4793C3B9AD2FE49D
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1493184575
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/D/19/KPJJCI6TPIRZEB0TE3MSD2
+ |   |- Actor Instance Guid: 8068F8804EC50E11797B079F7A53585B
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F18EE401_1395940921
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/9/TU/JP1EQV7RZ9AZBWQFJD2LAV
+ |   |- Actor Instance Guid: 81805F31468284CE80CC00801F6FB1C6
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1971547241
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/7/B0/NBPUZ32YTFH4QFVBDQICHZ
+ |   |- Actor Instance Guid: 825F010543E40D0F046DB291954743DF
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1956218236
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/E/DL/MBFACXPZHTDMISE1SKM8ST
+ |   |- Actor Instance Guid: 82E7419940A3BC9CFFA4F8B523B2B7A8
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1529254588
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/IC/NRET61P6ARS7Y31BOWB5PN
+ |   |- Actor Instance Guid: 85FAC462486A69A4B7EBA78469650710
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_4CD71793428D6B0102_2104271384
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/2/VA/FXOX6Q855ZN6NK8AKO7OPG
+ |   |- Actor Instance Guid: 86392FED4F4DD57D1ABABF9D0BA2C68F
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D652326F301_1363483458
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/3/19/H6NHYYQD4Z2EANJS1JTRZH
+ |   |- Actor Instance Guid: 86AAC3D347C119F194374C9B008DE671
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Brute_C_UAID_4CD71793428D6C0102_1466105571
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/D/GW/41TYCG1O0Z3VIR49MG1ZR5
+ |   |- Actor Instance Guid: 86F0AD1B43E4F62EEE3A708FD801CD97
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1510061583
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/7/DN/V1OMXMKDB2KYN9973B1FAO
+ |   |- Actor Instance Guid: 883D7F8D4C6D1CB8A2651285B2F9A5AA
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1526951587
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/AK/3OCT4D29X5DXBM5KTBC510
+ |   |- Actor Instance Guid: 8B1472AA4740A0D68739E5BAAFF3B54E
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Pickup_rifle1_C_UAID_4CD71793428D6C0102_1602787605
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/3/RN/27XHOQ1QRZTC2KI3NUD5DI
+ |   |- Actor Instance Guid: 8E31A2A54FA750FB741CEC88885A9B5C
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Brute_C_UAID_4CD71793428D6C0102_1461070570
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/TU/365IOYK4WQV87FZ48PPBA8
+ |   |- Actor Instance Guid: 8EBDE0174D28AFEB57FBB0BD827023CD
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D65239CEF01_1320342999
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/F/2N/IYPDKLBAIPQ3K94SNYTGGT
+ |   |- Actor Instance Guid: 935A76A34CBA8A2111E227ABB0747079
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Pickup_Pistol_C_UAID_4CD71793428D6C0102_1568920600
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/9/00/33R39W045CT9XO2PJ7VN8T
+ |   |- Actor Instance Guid: 96D4B49841A0689C81240B99700A42B4
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1542399218
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/MW/0KRH9N4BN7LF4H0FLF6QR2
+ |   |- Actor Instance Guid: 986E166A412B2C9C48A53CA2864A0071
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1545910596
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/6/8R/VCGEYUS8Y1JC33Z6W4LUS1
+ |   |- Actor Instance Guid: 9BF074BF4A20BD2891CB9FA814D93DE5
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F5EF01_1654911686
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/1T/WHAUBFI9NPBIZ6MZ0RSJX5
+ |   |- Actor Instance Guid: 9D1D0A1841FADCD1AA1DF28B3573B1BC
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_SplineWall_C_UAID_00FF697D652326F301_1110509455
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/ZS/88HMDE19VG92AI4PB15PS4
+ |   |- Actor Instance Guid: A0A5E45B4D3293CC79F6C9B83EDC659E
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1530366589
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/MA/GG3AKGO8LYAS7T6CUUI86J
+ |   |- Actor Instance Guid: A0B040C24CF9AFF67CE1A5A027AF2ED4
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Pickup_Pistol_C_UAID_4CD71793428D6C0102_1608889606
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/3/5D/RKWYRPSMB9C09US77NBPLB
+ |   |- Actor Instance Guid: A5452F3445CF36A44D444E81539E5BAC
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1981973245
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/5/EX/PB2BE9XCFR9MVCAS4BHVW5
+ |   |- Actor Instance Guid: A955565141C7CFDD11C3F1B891A1DE48
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F5EF01_1622383684
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/7/9U/ZXG2CDVR7QBUX6WUJ2BQ9H
+ |   |- Actor Instance Guid: AB3A68A641440293E8A3878CD9320C94
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Pickup_Pistol_C_UAID_4CD71793428D6C0102_1588668603
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/4/BO/JO0YDZBAMTND76CFU4RA92
+ |   |- Actor Instance Guid: AF9F1E2742462A271D3F2C90B09EABEB
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Brute_C_UAID_4CD71793428D6C0102_1469278573
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/E/QC/2M8ZEWTXJ2YP16KUFWZPWW
+ |   |- Actor Instance Guid: B0D328D3472F0515112EEC9DCBFE542C
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Pickup_Shotgun_C_UAID_4CD71793428D6C0102_1593622604
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/4/KJ/J78MVJ2GSZD44F6HYDNB1V
+ |   |- Actor Instance Guid: B16BD2D34266E3A367B392B159B3C8EB
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Pickup_rifle1_C_UAID_4CD71793428D6C0102_1576465601
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/9/UY/QNJIEAA1TG7YQ6Z4CV2S4A
+ |   |- Actor Instance Guid: B7EEE5544D95C881D7BC73965BB2EF6F
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F5EF01_1601823683
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/F/1A/UVM7AXU9J8Q2REE9B8HW1D
+ |   |- Actor Instance Guid: BFA06A004A47D19EC3A735B3FF09BBB9
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F5EF01_1113541678
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/MY/RQRHGWRFRJ4SF7DS647M5S
+ |   |- Actor Instance Guid: C491D7634E649A36AA27C5B1AEA8BB19
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F5EF01_1240814680
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/9/VG/QGCIKNJBMXR1YHT0BMX3CM
+ |   |- Actor Instance Guid: C5A34C304D89BA415502DEB200507254
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F18FE401_1194315099
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/D/MO/BY1WHDUD9JULCLMOA2V9AH
+ |   |- Actor Instance Guid: C6BB4F64491379211141D398B93C3E4A
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D652326F301_1361556457
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/7/9A/HD4H6KG16ON1APH0NVUSWS
+ |   |- Actor Instance Guid: CA3B303540A8E64386C959812A86444A
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1505664582
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/1/2E/Y0YKD4O1TAPKOBKYZE37LI
+ |   |- Actor Instance Guid: CC0F9EE545C948280925BE9915737DF2
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1535617591
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/D/HM/RG0VDG28C6I90UA0N628CV
+ |   |- Actor Instance Guid: CCA97ED744215B17F7A250B5D173277F
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1770867222
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/A/E4/4L4UY7R02U96M3GWVP73S6
+ |   |- Actor Instance Guid: D17D40D04FDC1BF75C48DE8D8156ADE2
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Pickup_Shotgun_C_UAID_4CD71793428D6C0102_1580423602
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/4/7M/G034FP0TNUSBXIQ4GWWCR1
+ |   |- Actor Instance Guid: DBB50147431B5A5A75F2D5B78E32479C
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1514411586
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/F/43/737JIWVMFU94UEINKALPEK
+ |   |- Actor Instance Guid: DD46C2754109D2F5A079949F7389B88B
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1532054590
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/YD/6C8CGQVL4QAND9LD3QXBQK
+ |   |- Actor Instance Guid: DDC15DF94D7648FD91221B82060A1078
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D652326F301_1366892459
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/6/RO/KF0A58W8MIHTBLEI7JXCPV
+ |   |- Actor Instance Guid: E331FFCD427503E2A63A7E8223776705
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_74563CF8C1F18EE401_1547730922
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/B/YA/BCU471D0U9OWG0TPDS08OI
+ |   |- Actor Instance Guid: E4BAC2504415F669159AF890B13E67B4
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_Pickup_rifle1_C_UAID_4CD71793428D6C0102_1610961607
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/6/ET/HHAAWK8J44S51TZUX7Q8N7
+ |   |- Actor Instance Guid: E52978314BF7F40F6A816C880BADBE63
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1992105248
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/D/WV/84IWH21P2XAAGN13VSR57Z
+ |   |- Actor Instance Guid: E6C48D3C468FBC19394111AD6D821167
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1581709219
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/B/2M/36S8BBI9W27BQ4V2J107CP
+ |   |- Actor Instance Guid: E770F32C417E94CE217C9D8462036EFC
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1495688577
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/0/DH/UYI3DUL36C6KTXCZBGJFCG
+ |   |- Actor Instance Guid: EDCD40564EA2C3CDEEC46EAAF091DE3C
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1925264230
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/A/K5/Y1000VH88N60TMQRPQEEIC
+ |   |- Actor Instance Guid: EF83D7574D24E0D31ADCF5B6CA06E357
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_4CD71793428D6C0102_1648398609
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/6/9Q/LWX1AGQKK88GKOSKNF0GM1
+ |   |- Actor Instance Guid: EFA179F34513CC773DDADE83156B842F
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1537821593
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/2/AX/8XTUGW73AUS68866VW3Z82
+ |   |- Actor Instance Guid: F177201C43E76F592C4E8490B80FDEC7
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F5EF01_1580560682
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/D/8F/YQE4FXG68EG4FZNMILC9YO
+ |   |- Actor Instance Guid: F4285FFF4ACAEADADB52439E1CE675B2
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1539117594
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/7/QY/T6BL6YY2ONHCXKCN9TECVH
+ |   |- Actor Instance Guid: F4377D964E6F917E7A780599873B802E
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_SplineWall_C_UAID_00FF697D6523F4EF01_2113572501
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/8/KO/ZCOD7INXPE0J753CJ7ZFMF
+ |   |- Actor Instance Guid: F441106E4CA307C0D549F8A4AE9633BE
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_00FF697D6523F8EF01_1465965216
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/C/B7/2F6QA5ZEWDO0J4HR6BDHQG
+ |   |- Actor Instance Guid: F7D4DD5B4C52DB34BDD8F2A7AF91B43C
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1504222581
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/0/B9/CLB3B6I894OUBGHGBA7VWT
+ |   |- Actor Instance Guid: F99C55FC4ED079C628A10793B123C083
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_ZombieMilitary_C_UAID_4CD71793428D6C0102_1544630595
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/7/EI/OT36UJTWRKLYFB7GIQ2U0B
+ |   |- Actor Instance Guid: FDFC489D4973421A2A23328B36D90FDB
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.BP_SplineWall_C_UAID_00FF697D6523F3EF01_1666940324
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/D/41/0E14N7B5C79WKJUJ2CLMX6
+ |   |- Actor Instance Guid: FEDB2A5C4188A2E14893728ED1B40348
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.StaticMeshActor_UAID_4CD71793428D6C0102_1215217561
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/0/U9/MX4FALFW03XT2I1D8VFPHO
+ |   |- Actor Instance Guid: FFDC4E3C4AB47209BFDE5E9460678726
+[+] Content of Grid Level 1
+ |- [+] Content of Cell Map_Reactor_MainGrid_L1_X0_Y0 (0046N4PQWHGTT06JSMI5QTNS3)
+ |   |- Actor Count: 2
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.PointLight_UAID_4CD71793428D6C0102_1320645566
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/E/2L/KS2IKB31RHNIA82GI6DNPN
+ |   |- Actor Instance Guid: 0DDF48F04BFA1438942B469C0FB19268
+ |   |-          Actor Path: /Game/Maps/Map_Reactor.Map_Reactor:PersistentLevel.PointLight_UAID_4CD71793428D6C0102_1315048565
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Map_Reactor/7/DU/9XACJH0GO86A6Q9JZOXQU6
+ |   |- Actor Instance Guid: 790C61664925C96E9A4B548428E3C8C1
+[+] Content of Grid Level 2
+
